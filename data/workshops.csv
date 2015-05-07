@@ -1,0 +1,36 @@
+title,place,country,month,year,coorganisers,sponsor
+Workshop on Approximate Inference in Gaussian Processes,Copenhagen,Denmark,May,2015,Aki Vehtari and Ole Winther,
+The DALI Meeting,La Palma,Canary Islands,April,2015,"Bernhard Sch\"olkopf, Zoubin Ghahramani and Thomas Hoffman",
+Gaussian Process Summer School,Melbourne,Australia,February,2015,Trevor Cohn,
+Gaussian Process Winter School,Genoa,Italy,January,2015,Lorenzo Rosasco,
+ABC in Montreal,Montreal,Canada,December,2014,"Ted Meeds, Cristian Robert, Rich Wilkinson and Max Welling",
+Deep Probabilistic Models,Sheffield,UK,October,2014,Andreas Damianou and James Hensman,
+Gaussian Processes for Feature Extraction Workshop,Sheffield,UK,September,2014,Zhenwen Dai and the Sheffield ML Group,
+Gaussian Process Summer School,Sheffield,UK,September,2014,Zhenwen Dai and the Sheffield ML Group,
+Genomics Workshop,Sheffield,UK,April,2014,Nicol\'o Fusi and James Hensman,
+MASAMB,2014,Sheffield,UK,April,2014,James Hensman,
+Gaussian Process Road Show,Pereirra,Colombia,February,2014,Mauricio \'Alvarez,The British Council
+Spatio-temporal Modelling with Gaussian Processes Workshop,Sheffield,UK,January,2014,,
+Gaussian Process Winter School,Sheffield,UK,January,2014,Andreas Damianou and the Sheffield ML Group,
+Probabilistic Models for Big Data,"NIPS Workshop, South Lake Tahoe",USA,December,2013,"Joaquin Quinonero Candela, James Hensman and Tianshi Gao",
+Gaussian Process Road Show,Kampala,Uganda,August,2013,"John Quinn, Martin Mubangizi and Ricardo Andrade Pacheco",
+Latent Force Model Workshop,Sheffield,UK,June,2013,Mauricio \'Alvarez,
+Gaussian Process Summer School,Sheffield,UK,June,2013,Nicolas Durrande and the Sheffield ML Group,
+AISTATS 2012,La Palma,Canary Islands,April,2012,"Mark Girolami as Programme Co-chair, General Chair Bernhard Sch\"olkopf, Local Chair Fernando Perez Cruz",
+MLSS 2012,La Palma,Canary Islands,April,2012,"Bernhard Sch\"olkopf, Fernando Perez Cruz and Philipp Hennig",
+MLSB 2011,"Hilton Stadtpark, Vienna",Austria,July,2011,Stefan Kramer,
+AISTATS 2010,Chia Resort,Sardinia,May,2010,with Mike Titterington and Yee Whye Teh as program chairs,LMS and Google
+Kernels for Multiple Outputs and Multi-task Learning: Frequentist and Bayesian Points of View,Whistler,Canada,December,2009,Mauricio \'Alvarez and Lorenzo Rosasco,
+Statistics and Machine Learning Interface Meeting,Manchester,UK,July,2009,Mauricio \'Alvarez,
+Thematic Programme in Leveraging Complex Prior Knowledge in Learning,,,March to September,2008,Marc Dymetman,FP7 PASCAL Network 
+Bayesian Research Kitchen,Lake District,UK,September,2008,Joaquin Qui\ {n}onero Candela,
+Workshop on Approximate Inference in Stochastic Processes and Dynamical Systems,"Cumberland Lodge, Windsor",UK,May 27-29,2008,"Cedric Archambeau, John Shawe-Taylor, Ian Roulstone and Andrew Stuart",
+EPSRC Winter School in Mathematics for Data Modelling,Sheffield,UK,January,2008,Tony Dodd and Rob Harrison,EPSRC
+Thematic Programme in Learning for Computational and Systems Biology,,,March to September,2007,"Mark Girolami, Magnus Rattray and Guido Sanguinetti",FP6 PASCAL NoE
+Approximate Bayesian Inference in Continuous/Hybrid Models,Whistler,Canada,7th December,2007,"Matthias Seeger, David Barber and Onno Zoeter",FP6 PASCAL NoE
+Parameter Estimation in Systems Biology,Manchester,UK,28-29th March,2007,Magnus Rattray,FP6 PASCAL NoE
+Learning when Test and Training Inputs have Different Distributions,Whistler,Canada,9th December,2006,"Joaquin Quin\ {n}onero Candela, Masashi Sugiyama and Anton Schwaighofer",FP6 PASCAL NoE
+Gaussian Processes in Practice,Bletchley Park,UK,12th-13th June,2006,Joaquin Quin\ {n}onero Candela and Anton Schwaighofer,FP6 PASCAL NoE
+Gaussian Process Round Table,Sheffield,UK,9th-10th June,2005,The University of Sheffield and the FP6 PASCAL NoE
+Sheffield Machine Learning Workshop,"Nether Edge, Sheffield",UK,7th-10th September,2004,Joab Winkler and Mahesan Niranjan,"EPSRC/LMS through the MathFIT program; the FP6 PASCAL NoE; and the University of Sheffield",
+Unravelling Natures Networks: From Microarray and Proteomic Analysis to Systems Biology,"Halifax Hall, Sheffield",UK,21st-22nd July,2003,Nick Monk,The Biochemical Society and the University of Sheffield
