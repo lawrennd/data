@@ -1,25 +1,25 @@
 role,title,place,country,month,year,coorganisers,sponsor,url
-,Gaussian Process Summer School,Sheffield,UK,14th-16th September,2015,Javier Gonzalez and the Sheffield ML Group,,http://ml.dcs.shef.ac.uk/gpss/gpss15/
-,Workshop on Data Science in Africa,Nyeri,Kenya,18th--19th June,2015,Ciira Maina and John Quinn,,http://ml.dcs.shef.ac.uk/gpss/dsa15/
-,ODS: Data Science School,Nyeri,Kenya,15th--17th June,2015,Ciira Maina and John Quinn,,http://ml.dcs.shef.ac.uk/gpss/dss15/
-,Workshop on Approximate Inference in Gaussian Processes,Copenhagen,Denmark,21st--22nd May,2015,Aki Vehtari and Ole Winther,,http://ml.dcs.shef.ac.uk/gpss/gpa15/
+,Gaussian Process Summer School,Sheffield,UK,14th-16th September,2015,Javier Gonzalez and the Sheffield ML Group,,http://gpss.cc/gpss15/
+,Workshop on Data Science in Africa,Nyeri,Kenya,18th--19th June,2015,Ciira Maina and John Quinn,,http://gpss.cc/dsa15/
+,ODS: Data Science School,Nyeri,Kenya,15th--17th June,2015,Ciira Maina and John Quinn,,http://gpss.cc/dss15/
+,Workshop on Approximate Inference in Gaussian Processes,Copenhagen,Denmark,21st--22nd May,2015,Aki Vehtari and Ole Winther,,http://gpss.cc/gpa15/
 ,The DALI Meeting,La Palma,Canary Islands,April,2015,"Bernhard Schölkopf, Zoubin Ghahramani and Thomas Hoffman",,http://isweb.is.tuebingen.mpg.de/dali/
-,Gaussian Process Summer School,Melbourne,Australia,25th--27th February,2015,Trevor Cohn,,http://ml.dcs.shef.ac.uk/gpss/gprs15b/
-,Gaussian Process Winter School,Genoa,Italy,15th-17th January,2015,Alessandro Rudi and Lorenzo Rosasco,,http://ml.dcs.shef.ac.uk/gpss/gprs15a/
+,Gaussian Process Summer School,Melbourne,Australia,25th--27th February,2015,Trevor Cohn,,http://gpss.cc/gprs15b/
+,Gaussian Process Winter School,Genoa,Italy,15th-17th January,2015,Alessandro Rudi and Lorenzo Rosasco,,http://gpss.cc/gprs15a/
 ,ABC in Montreal,Montreal,Canada,December,2014,"Ted Meeds, Cristian Robert, Rich Wilkinson and Max Welling",,https://sites.google.com/site/abcinmontreal/
 Program Chair,Neural Information Processing Systems,Montreal,Canada,December,2014,Corinna Cortes as Program Co-Chair,,https://nips.cc/Conferences/2014/
 ,Deep Probabilistic Models,Sheffield,UK,October,2014,Andreas Damianou and James Hensman,,http://ml.dcs.shef.ac.uk/DeepWorkshop/
-,Gaussian Processes for Feature Extraction Workshop,Sheffield,UK,September,2014,Zhenwen Dai and the Sheffield ML Group,,http://ml.dcs.shef.ac.uk/gpss/gpfe14/
-,Gaussian Process Summer School,Sheffield,UK,September,2014,Zhenwen Dai and the Sheffield ML Group,,http://ml.dcs.shef.ac.uk/gpss/gpss14/
+,Gaussian Processes for Feature Extraction Workshop,Sheffield,UK,September,2014,Zhenwen Dai and the Sheffield ML Group,,http://gpss.cc/gpfe14/
+,Gaussian Process Summer School,Sheffield,UK,September,2014,Zhenwen Dai and the Sheffield ML Group,,http://gpss.cc/gpss14/
 ,Genomics Workshop,Sheffield,UK,April,2014,Nicol\'o Fusi and James Hensman,,http://ml.dcs.shef.ac.uk/masamb/workshop.html
 ,MASAMB,Sheffield,UK,April,2014,James Hensman,,http://ml.dcs.shef.ac.uk/masamb/
-,Gaussian Process Road Show,Pereirra,Colombia,February,2014,Mauricio \'Alvarez,The British Council,http://ml.dcs.shef.ac.uk/gpss/gprs14/
-,Spatio-temporal Modelling with Gaussian Processes Workshop,Sheffield,UK,16th January,2014,"Andreas Damianou, Alan Saul and the Sheffield ML Group",,http://ml.dcs.shef.ac.uk/gpss/gpst14/
-,Gaussian Process Winter School,Sheffield,UK,13th--15th January,2014,"Andreas Damianou, Alan Saul and the Sheffield ML Group",,http://ml.dcs.shef.ac.uk/gpss/gpws14/
+,Gaussian Process Road Show,Pereirra,Colombia,February,2014,Mauricio \'Alvarez,The British Council,http://gpss.cc/gprs14/
+,Spatio-temporal Modelling with Gaussian Processes Workshop,Sheffield,UK,16th January,2014,"Andreas Damianou, Alan Saul and the Sheffield ML Group",,http://gpss.cc/gpst14/
+,Gaussian Process Winter School,Sheffield,UK,13th--15th January,2014,"Andreas Damianou, Alan Saul and the Sheffield ML Group",,http://gpss.cc/gpws14/
 ,Probabilistic Models for Big Data,"NIPS Workshop, South Lake Tahoe",USA,December,2013,"Joaquin Qui\~{n}onero Candela, James Hensman and Tianshi Gao",,https://sites.google.com/site/probabilisticmodelsforbigdata/
-,Gaussian Process Road Show,Kampala,Uganda,August,2013,"John Quinn, Martin Mubangizi and Ricardo Andrade Pacheco",,http://ml.dcs.shef.ac.uk/gpss/gprs13/
-,Latent Force Model Workshop,Sheffield,UK,June,2013,Mauricio \'Alvarez,,http://ml.dcs.shef.ac.uk/gpss/lfm13/
-,Gaussian Process Summer School,Sheffield,UK,June,2013,Nicolas Durrande and the Sheffield ML Group,,http://ml.dcs.shef.ac.uk/gpss/gpss13/
+,Gaussian Process Road Show,Kampala,Uganda,August,2013,"John Quinn, Martin Mubangizi and Ricardo Andrade Pacheco",,http://gpss.cc/gprs13/
+,Latent Force Model Workshop,Sheffield,UK,June,2013,Mauricio \'Alvarez,,http://gpss.cc/lfm13/
+,Gaussian Process Summer School,Sheffield,UK,June,2013,Nicolas Durrande and the Sheffield ML Group,,http://gpss.cc/gpss13/
 Programme Chair,AISTATS 2012,La Palma,Canary Islands,April,2012,"Mark Girolami as Programme Co-chair, General Chair Bernhard Schölkopf, Local Chair Fernando Perez Cruz",,http://www.aistats.org/aistats2012/
 ,MLSS 2012,La Palma,Canary Islands,April,2012,"Bernhard Schölkopf, Fernando Perez Cruz and Philipp Hennig",,http://mlss2012.tsc.uc3m.es/
 ,MLSB 2011,"Hilton Stadtpark, Vienna",Austria,July,2011,Stefan Kramer,,
