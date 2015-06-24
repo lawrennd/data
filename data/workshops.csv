@@ -3,7 +3,7 @@ role,title,place,country,month,year,coorganisers,sponsor,url
 ,Workshop on Data Science in Africa,Nyeri,Kenya,18th--19th June,2015,Ciira wa Maina and John Quinn,,http://ml.dcs.shef.ac.uk/gpss/dsa15/
 ,ODS: Data Science School,Nyeri,Kenya,15th--17th June,2015,Ciira wa Maina and John Quinn,,http://ml.dcs.shef.ac.uk/gpss/dss15/
 ,Workshop on Approximate Inference in Gaussian Processes,Copenhagen,Denmark,21st--22nd May,2015,Aki Vehtari and Ole Winther,,http://ml.dcs.shef.ac.uk/gpss/gpa15/
-,The DALI Meeting,La Palma,Canary Islands,April,2015,"Bernhard Sch\"olkopf, Zoubin Ghahramani and Thomas Hoffman",,http://isweb.is.tuebingen.mpg.de/dali/
+,The DALI Meeting,La Palma,Canary Islands,April,2015,"Bernhard Schölkopf, Zoubin Ghahramani and Thomas Hoffman",,http://isweb.is.tuebingen.mpg.de/dali/
 ,Gaussian Process Summer School,Melbourne,Australia,25th--27th February,2015,Trevor Cohn,,http://ml.dcs.shef.ac.uk/gpss/gprs15b/
 ,Gaussian Process Winter School,Genoa,Italy,15th-17th January,2015,Alessandro Rudi and Lorenzo Rosasco,,http://ml.dcs.shef.ac.uk/gpss/gprs15a/
 ,ABC in Montreal,Montreal,Canada,December,2014,"Ted Meeds, Cristian Robert, Rich Wilkinson and Max Welling",,https://sites.google.com/site/abcinmontreal/
@@ -20,8 +20,8 @@ Program Chair,Neural Information Processing Systems,Montreal,Canada,December,201
 ,Gaussian Process Road Show,Kampala,Uganda,August,2013,"John Quinn, Martin Mubangizi and Ricardo Andrade Pacheco",,http://ml.dcs.shef.ac.uk/gpss/gprs13/
 ,Latent Force Model Workshop,Sheffield,UK,June,2013,Mauricio \'Alvarez,,http://ml.dcs.shef.ac.uk/gpss/lfm13/
 ,Gaussian Process Summer School,Sheffield,UK,June,2013,Nicolas Durrande and the Sheffield ML Group,,http://ml.dcs.shef.ac.uk/gpss/gpss13/
-Programme Chair,AISTATS 2012,La Palma,Canary Islands,April,2012,"Mark Girolami as Programme Co-chair, General Chair Bernhard Sch\"olkopf, Local Chair Fernando Perez Cruz",,http://www.aistats.org/aistats2012/
-,MLSS 2012,La Palma,Canary Islands,April,2012,"Bernhard Sch\"olkopf, Fernando Perez Cruz and Philipp Hennig",,http://mlss2012.tsc.uc3m.es/
+Programme Chair,AISTATS 2012,La Palma,Canary Islands,April,2012,"Mark Girolami as Programme Co-chair, General Chair Bernhard Schölkopf, Local Chair Fernando Perez Cruz",,http://www.aistats.org/aistats2012/
+,MLSS 2012,La Palma,Canary Islands,April,2012,"Bernhard Schölkopf, Fernando Perez Cruz and Philipp Hennig",,http://mlss2012.tsc.uc3m.es/
 ,MLSB 2011,"Hilton Stadtpark, Vienna",Austria,July,2011,Stefan Kramer,,
 General Chair,AISTATS 2010,Chia Resort,Sardinia,May,2010,with Mike Titterington and Yee Whye Teh as Programme Chairs,LMS and Google,http://www.aistats.org/aistats2010/
 ,Kernels for Multiple Outputs and Multi-task Learning: Frequentist and Bayesian Points of View,Whistler,Canada,December,2009,Mauricio \'Alvarez and Lorenzo Rosasco,,http://videolectures.net/nipsworkshops09_kernels/
