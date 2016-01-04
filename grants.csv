@@ -1,7 +1,7 @@
 role,number,funders,title,currency,amount,start,end,description,collaborators,url
 PI,EP/N014162/1,EPSRC,Deep Probabilistic Models for Making Sense of Unstructured Data,£,504792,2016,2020,"(with University of Cambridge, CitizenMe and Pulse Lab Kampala, two post-doctoral research assistants in our group)",Zoubin Ghahramani and John Quinn,http://sheffieldml.github.io/projects/deep/
-PI,,Facebook,"Facebook Faculty Award",\$,50000,2015,,"Further support for EP/N014162/1",,
-PI,,Amazon,"AWS Grants for Research and Education",\$,150000,2015,,"Award in the provision of compute time on AWS Servers",,
+PI,,Facebook,"Facebook Faculty Award",\$,50000,2015,,"Further support for EP/N014162/1",,http://sheffieldml.github.io/projects/deep/
+PI,,Amazon,"AWS Grants for Research and Education",\$,150000,2015,,"Award in the provision of compute time on AWS Servers, further support for EP/N014162/1",,http://sheffieldml.github.io/projects/deep/
 PI,,EU-Horizon 2020,"OpenDreamKit: Open Digital Research Environment Toolkit for the Advancement of Mathematics",£,457457,2015,2018,"",,http://sheffieldml.github.io/projects/opendreamkit/
 PI,,EU-Horizon 2020,"CONTESSA: COuNt data TimE SerieS Analysis - significance tests and sequencing data application",£,156364,2015,2017,"Marie Curie Fellowship award to Luisa Cutillo",Winston Hide,http://sheffieldml.github.io/projects/contessa/
 PI,,Innovate UK,Personal Information Management Systems,£,85491,2015,2016,"(with CitizenMe and Cambridge Psychometrics Centre, One post-doctoral research assistant in our group). In this grant we are developing personal information management systems for assessing emotional state and providing user feedback",,http://sheffieldml.github.io/projects/pims/
