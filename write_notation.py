@@ -1,17 +1,7 @@
 #!/usr/bin/env python
 
-import re
-import os
-import yaml
+import macros
 
-file_name = 'definitions'
-text = open(file_name + '.yml', 'r')
-macros = yaml.load(text)
-out = ''
-for key, val in macros.items():
-    if int(val['args']) == 0:
-        out += "\\newcommand{\\" + key + r'}{' + val['macro'] + '}\n'
-    elif int(val['args']) > 0:
-        out += "\\newcommand{\\" + key + r'}[' + str(val['args']) + ']{' + val['macro'] + '}\n'
-
-print(out)
+latex_macros = macros.read('notation_def.yml', dir='.')
+macros.write(latex_macros, filename='notation_def.tex', dir='/Users/neil/SheffieldML/publications/tex_inputs/', style='newcommand')
+macros.write(latex_macros, filename='notationDef.tex', dir='/Users/neil/SheffieldML/publications/tex_inputs/', style='global')
