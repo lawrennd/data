@@ -1,0 +1,840 @@
+Amatrix:
+  args: 0
+  macro: \mathbf{A}
+BasalRate:
+  args: 0
+  macro: B
+DampingCoefficient:
+  args: 0
+  macro: C
+DecayRate:
+  args: 0
+  macro: D
+Displacement:
+  args: 0
+  macro: X
+KL:
+  args: 2
+  macro: '\text{KL}\left( #1\,\|\,#2 \right)'
+Kaast:
+  args: 0
+  macro: \kernelMatrix_{\mathbf{ \ast}\mathbf{ \ast}}
+Kastu:
+  args: 0
+  macro: \kernelMatrix_{\mathbf{\ast} \inducingVector}
+Kff:
+  args: 0
+  macro: \kernelMatrix_{\mappingFunctionVector \mappingFunctionVector}
+Kfu:
+  args: 0
+  macro: \kernelMatrix_{\mappingFunctionVector \inducingVector}
+Kuast:
+  args: 0
+  macro: \kernelMatrix_{\inducingVector \bf\ast}
+Kuf:
+  args: 0
+  macro: \kernelMatrix_{\inducingVector \mappingFunctionVector}
+Kuu:
+  args: 0
+  macro: \kernelMatrix_{\inducingVector \inducingVector}
+Kuui:
+  args: 0
+  macro: \Kuu^{-1}
+LatentForce:
+  args: 0
+  macro: F
+Mass:
+  args: 0
+  macro: M
+Qaast:
+  args: 0
+  macro: '{\bf Q}_{\bf \ast \ast}'
+Qastf:
+  args: 0
+  macro: '{\bf Q}_{\ast \mappingFunction}'
+Qfast:
+  args: 0
+  macro: '{\bf Q}_{\mappingFunctionVector \bf \ast}'
+Qff:
+  args: 0
+  macro: '{\bf Q}_{\mappingFunctionVector \mappingFunctionVector}'
+Sensitivity:
+  args: 0
+  macro: S
+aMatrix:
+  args: 0
+  macro: \mathbf{A}
+aScalar:
+  args: 0
+  macro: a
+aVector:
+  args: 0
+  macro: \mathbf{a}
+acceleration:
+  args: 0
+  macro: a
+bMatrix:
+  args: 0
+  macro: \mathbf{B}
+bScalar:
+  args: 0
+  macro: b
+bVector:
+  args: 0
+  macro: \mathbf{b}
+basalRate:
+  args: 0
+  macro: b
+basisFunc:
+  args: 0
+  macro: \phi
+basisFuncVector:
+  args: 0
+  macro: \boldsymbol{\basisFunc}
+basisFunction:
+  args: 0
+  macro: \phi
+basisLocation:
+  args: 0
+  macro: \mu
+basisMatrix:
+  args: 0
+  macro: \boldsymbol{\Phi}
+basisScalar:
+  args: 0
+  macro: \basisFunction
+basisVector:
+  args: 0
+  macro: \boldsymbol{\basisFunction}
+bigO:
+  args: 0
+  macro: \mathcal{O}
+binomProb:
+  args: 0
+  macro: \pi
+cMatrix:
+  args: 0
+  macro: \mathbf{C}
+cbasisMatrix:
+  args: 0
+  macro: \hat{\boldsymbol{\Phi}}
+cdataMatrix:
+  args: 0
+  macro: \hat{\dataMatrix}
+cdataScalar:
+  args: 0
+  macro: \hat{\dataScalar}
+cdataVector:
+  args: 0
+  macro: \hat{\dataVector}
+centeredKernelMatrix:
+  args: 0
+  macro: \mathbf{\MakeUppercase{\centeredKernelScalar}}
+centeredKernelScalar:
+  args: 0
+  macro: b
+centeredKernelVector:
+  args: 0
+  macro: \centeredKernelScalar
+centeringMatrix:
+  args: 0
+  macro: \mathbf{H}
+chiSquaredDist:
+  args: 2
+  macro: \chi_{#1}^{2}\left(#2\right)
+chiSquaredSamp:
+  args: 1
+  macro: \chi_{#1}^{2}
+conditionalCovariance:
+  args: 0
+  macro: \boldsymbol{\Sigma}
+coregionalizationMatrix:
+  args: 0
+  macro: \mathbf{\MakeUppercase{\coregionalizationScalar}}
+coregionalizationScalar:
+  args: 0
+  macro: b
+coregionalizationVector:
+  args: 0
+  macro: \mathbf{\coregionalizationScalar}
+covDist:
+  args: 2
+  macro: \text{cov}_{#2}\left(#1\right)
+covSamp:
+  args: 1
+  macro: \text{cov}\left(#1\right)
+covarianceMatrix:
+  args: 0
+  macro: \mathbf{\MakeUppercase{\covarianceScalar}}
+covarianceScalar:
+  args: 0
+  macro: c
+covarianceVector:
+  args: 0
+  macro: \mathbf{\covarianceScalar}
+croupierMatrix:
+  args: 0
+  macro: \mathbf{\MakeUppercase{\croupierScalar}}
+croupierScalar:
+  args: 0
+  macro: s
+croupierVector:
+  args: 0
+  macro: \mathbf{\croupierScalar}
+dampingCoefficient:
+  args: 0
+  macro: c
+dataDim:
+  args: 0
+  macro: p
+dataIndex:
+  args: 0
+  macro: i
+dataIndexTwo:
+  args: 0
+  macro: j
+dataMatrix:
+  args: 0
+  macro: \mathbf{\MakeUppercase{\dataScalar}}
+dataScalar:
+  args: 0
+  macro: y
+dataSet:
+  args: 0
+  macro: \mathcal{D}
+dataStd:
+  args: 0
+  macro: \sigma
+dataVector:
+  args: 0
+  macro: \mathbf{\dataScalar}
+decayRate:
+  args: 0
+  macro: d
+degreeMatrix:
+  args: 0
+  macro: \mathbf{\MakeUppercase{\degreeScalar}}
+degreeScalar:
+  args: 0
+  macro: d
+degreeVector:
+  args: 0
+  macro: \mathbf{\degreeScalar}
+det:
+  args: 1
+  macro: \left|#1\right|
+diag:
+  args: 1
+  macro: \text{diag}\left(#1\right)
+diagonalMatrix:
+  args: 0
+  macro: \mathbf{D}
+diff:
+  args: 2
+  macro: \frac{\text{d}#1}{\text{d}#2}
+diffTwo:
+  args: 2
+  macro: \frac{\text{d}^2#1}{\text{d}#2^2}
+displacement:
+  args: 0
+  macro: x
+displacementVector:
+  args: 0
+  macro: \textbf{\displacement}
+distanceMatrix:
+  args: 0
+  macro: \mathbf{\MakeUppercase{\distanceScalar}}
+distanceScalar:
+  args: 0
+  macro: d
+distanceVector:
+  args: 0
+  macro: \mathbf{\distanceScalar}
+eigenvaltwo:
+  args: 0
+  macro: \ell
+eigenvaltwoMatrix:
+  args: 0
+  macro: \mathbf{L}
+eigenvaltwoVector:
+  args: 0
+  macro: \mathbf{l}
+eigenvalue:
+  args: 0
+  macro: \lambda
+eigenvalueMatrix:
+  args: 0
+  macro: \boldsymbol{\Lambda}
+eigenvalueVector:
+  args: 0
+  macro: \boldsymbol{\lambda}
+eigenvector:
+  args: 0
+  macro: \mathbf{\eigenvectorScalar}
+eigenvectorMatrix:
+  args: 0
+  macro: \mathbf{\MakeUppercase{\eigenvectorScalar}}
+eigenvectorScalar:
+  args: 0
+  macro: u
+eigenvectwo:
+  args: 0
+  macro: \mathbf{v}
+eigenvectwoMatrix:
+  args: 0
+  macro: \mathbf{V}
+eigenvectwoScalar:
+  args: 0
+  macro: v
+entropy:
+  args: 1
+  macro: \mathcal{H}\left(#1\right)
+errorFunction:
+  args: 0
+  macro: E
+expDist:
+  args: 2
+  macro: \left<#1\right>_{#2}
+expSamp:
+  args: 1
+  macro: \left<#1\right>
+expectation:
+  args: 1
+  macro: '\left\langle #1 \right\rangle '
+expectationDist:
+  args: 2
+  macro: '\left\langle #1 \right\rangle _{#2}'
+expectedDistanceMatrix:
+  args: 0
+  macro: \mathcal{D}
+eye:
+  args: 0
+  macro: \mathbf{I}
+fantasyDim:
+  args: 0
+  macro: r
+fantasyMatrix:
+  args: 0
+  macro: \mathbf{\MakeUppercase{\fantasyScalar}}
+fantasyScalar:
+  args: 0
+  macro: z
+fantasyVector:
+  args: 0
+  macro: \mathbf{\fantasyScalar}
+featureStd:
+  args: 0
+  macro: \varsigma
+gammaCdf:
+  args: 3
+  macro: \mathcal{GAMMA CDF}\left(#1|#2,#3\right)
+gammaDist:
+  args: 3
+  macro: \mathcal{G}\left(#1|#2,#3\right)
+gammaSamp:
+  args: 2
+  macro: \mathcal{G}\left(#1,#2\right)
+gaussianDist:
+  args: 3
+  macro: \mathcal{N}\left(#1|#2,#3\right)
+gaussianSamp:
+  args: 2
+  macro: \mathcal{N}\left(#1,#2\right)
+half:
+  args: 0
+  macro: \frac{1}{2}
+heaviside:
+  args: 0
+  macro: H
+hiddenMatrix:
+  args: 0
+  macro: \mathbf{\MakeUppercase{\hiddenScalar}}
+hiddenScalar:
+  args: 0
+  macro: h
+hiddenVector:
+  args: 0
+  macro: \mathbf{\hiddenScalar}
+identityMatrix:
+  args: 0
+  macro: \eye
+inducingInputMatrix:
+  args: 0
+  macro: \mathbf{\MakeUppercase{\inducingInputScalar}}
+inducingInputScalar:
+  args: 0
+  macro: z
+inducingInputVector:
+  args: 0
+  macro: \mathbf{\inducingInputScalar}
+inducingMatrix:
+  args: 0
+  macro: \mathbf{\MakeUppercase{\inducingScalar}}
+inducingScalar:
+  args: 0
+  macro: u
+inducingVector:
+  args: 0
+  macro: \mathbf{\inducingScalar}
+inlineDiff:
+  args: 2
+  macro: \text{d}#1/\text{d}#2
+inputDim:
+  args: 0
+  macro: q
+inputMatrix:
+  args: 0
+  macro: '{\bf \MakeUppercase{\inputScalar}}'
+inputScalar:
+  args: 0
+  macro: x
+inputSpace:
+  args: 0
+  macro: \mathcal{X}
+inputVector:
+  args: 0
+  macro: '{\bf \inputScalar}'
+iterNum:
+  args: 0
+  macro: k
+kernel:
+  args: 0
+  macro: \kernelScalar
+kernelMatrix:
+  args: 0
+  macro: \mathbf{\MakeUppercase{\kernelScalar}}
+kernelScalar:
+  args: 0
+  macro: k
+kernelVector:
+  args: 0
+  macro: \mathbf{\kernelScalar}
+kff:
+  args: 0
+  macro: \kernelScalar_{\mappingFunction \mappingFunction}
+kfu:
+  args: 0
+  macro: \kernelVector_{\mappingFunction \inducingScalar}
+kuf:
+  args: 0
+  macro: \kernelVector_{\inducingScalar \mappingFunction}
+kuu:
+  args: 0
+  macro: \kernelVector_{\inducingScalar \inducingScalar}
+lagrangeMultiplier:
+  args: 0
+  macro: \lambda
+lagrangeMultiplierMatrix:
+  args: 0
+  macro: \boldsymbol{\Lambda}
+lagrangian:
+  args: 0
+  macro: L
+laplacianFactor:
+  args: 0
+  macro: \mathbf{\MakeUppercase{\laplacianFactorScalar}}
+laplacianFactorScalar:
+  args: 0
+  macro: m
+laplacianFactorVector:
+  args: 0
+  macro: \mathbf{\laplacianFactorScalar}
+laplacianMatrix:
+  args: 0
+  macro: \mathbf{L}
+laplacianScalar:
+  args: 0
+  macro: \ell
+laplacianVector:
+  args: 0
+  macro: \mathbf{\ell}
+latentDim:
+  args: 0
+  macro: q
+latentDistanceMatrix:
+  args: 0
+  macro: \boldsymbol{\Delta}
+latentDistanceScalar:
+  args: 0
+  macro: \delta
+latentDistanceVector:
+  args: 0
+  macro: \boldsymbol{\delta}
+latentForce:
+  args: 0
+  macro: f
+latentFunction:
+  args: 0
+  macro: u
+latentFunctionMatrix:
+  args: 0
+  macro: \mathbf{\MakeUppercase{\latentFunction}}
+latentFunctionVector:
+  args: 0
+  macro: \mathbf{\latentFunction}
+latentIndex:
+  args: 0
+  macro: j
+latentMatrix:
+  args: 0
+  macro: \mathbf{\MakeUppercase{\latentScalar}}
+latentScalar:
+  args: 0
+  macro: x
+latentVector:
+  args: 0
+  macro: \mathbf{\latentScalar}
+learnRate:
+  args: 0
+  macro: \eta
+lengthScale:
+  args: 0
+  macro: \ell
+likelihoodBound:
+  args: 0
+  macro: \mathcal{L}
+likelihoodFunction:
+  args: 0
+  macro: L
+locationMatrix:
+  args: 0
+  macro: \mathbf{M}
+locationScalar:
+  args: 0
+  macro: \mu
+locationVector:
+  args: 0
+  macro: \boldsymbol{\locationScalar}
+loneNorm:
+  args: 1
+  macro: '\left\Vert #1 \right\Vert_1'
+ltwoNorm:
+  args: 1
+  macro: '\left\Vert #1 \right\Vert_2'
+mappingFunction:
+  args: 0
+  macro: f
+mappingFunctionMatrix:
+  args: 0
+  macro: \mathbf{\MakeUppercase{\mappingFunction}}
+mappingFunctionTwo:
+  args: 0
+  macro: g
+mappingFunctionTwoMatrix:
+  args: 0
+  macro: \mathbf{\MakeUppercase{\mappingFunctionTwo}}
+mappingFunctionTwoVector:
+  args: 0
+  macro: \mathbf{\mappingFunctionTwo}
+mappingFunctionVector:
+  args: 0
+  macro: \mathbf{\mappingFunction}
+mappingMatrix:
+  args: 0
+  macro: \mathbf{W}
+mappingMatrixTwo:
+  args: 0
+  macro: \mathbf{\MakeUppercase{\mappingScalarTwo}}
+mappingScalar:
+  args: 0
+  macro: w
+mappingScalarTwo:
+  args: 0
+  macro: v
+mappingVector:
+  args: 0
+  macro: \mathbf{\mappingScalar}
+mappingVectorTwo:
+  args: 0
+  macro: \mathbf{\mappingScalarTwo}
+mass:
+  args: 0
+  macro: m
+maxIters:
+  args: 0
+  macro: K
+meanMatrix:
+  args: 0
+  macro: \mathbf{M}
+meanScalar:
+  args: 0
+  macro: \mu
+meanTwoMatrix:
+  args: 0
+  macro: \mathbf{\MakeUppercase{\meanTwoScalar}}
+meanTwoScalar:
+  args: 0
+  macro: m
+meanTwoVector:
+  args: 0
+  macro: \mathbf{\meanTwoScalar}
+meanVector:
+  args: 0
+  macro: \boldsymbol{\meanScalar}
+mrnaConcentration:
+  args: 0
+  macro: m
+naturalFrequency:
+  args: 0
+  macro: \omega
+neighborhood:
+  args: 1
+  macro: '\mathcal{N}\left( #1 \right)'
+neilurl:
+  args: 0
+  macro: http://inverseprobability.com/
+noiseMatrix:
+  args: 0
+  macro: \boldsymbol{E}
+noiseScalar:
+  args: 0
+  macro: \epsilon
+noiseVector:
+  args: 0
+  macro: \boldsymbol{\epsilon}
+norm:
+  args: 1
+  macro: '\left\Vert #1 \right\Vert'
+normalizedLaplacianMatrix:
+  args: 0
+  macro: \hat{\mathbf{L}}
+normalizedLaplacianScalar:
+  args: 0
+  macro: \hat{\ell}
+normalizedLaplacianVector:
+  args: 0
+  macro: \hat{\mathbf{\ell}}
+numActive:
+  args: 0
+  macro: m
+numBasisFunc:
+  args: 0
+  macro: m
+numComponents:
+  args: 0
+  macro: m
+numComps:
+  args: 0
+  macro: K
+numData:
+  args: 0
+  macro: n
+numFeatures:
+  args: 0
+  macro: K
+numHidden:
+  args: 0
+  macro: h
+numInducing:
+  args: 0
+  macro: m
+numLayers:
+  args: 0
+  macro: \ell
+numNeighbors:
+  args: 0
+  macro: K
+numSequences:
+  args: 0
+  macro: s
+numSuccess:
+  args: 0
+  macro: s
+numTasks:
+  args: 0
+  macro: m
+numTime:
+  args: 0
+  macro: T
+numTrials:
+  args: 0
+  macro: S
+onenorm:
+  args: 1
+  macro: \left\vert#1\right\vert_1
+onesVector:
+  args: 0
+  macro: \mathbf{1}
+outputIndex:
+  args: 0
+  macro: j
+paramVector:
+  args: 0
+  macro: \boldsymbol{\theta}
+parameterMatrix:
+  args: 0
+  macro: \boldsymbol{\Theta}
+parameterScalar:
+  args: 0
+  macro: \theta
+parameterVector:
+  args: 0
+  macro: \boldsymbol{\parameterScalar}
+partDiff:
+  args: 2
+  macro: \frac{\partial#1}{\partial#2}
+precisionMatrix:
+  args: 0
+  macro: \mathbf{\MakeUppercase{\precisionScalar}}
+precisionScalar:
+  args: 0
+  macro: j
+precisionVector:
+  args: 0
+  macro: \mathbf{\precisionScalar}
+pseudotargetMatrix:
+  args: 0
+  macro: \mathbf{\MakeUppercase{\pseudotargetScalar}}
+pseudotargetScalar:
+  args: 0
+  macro: \widetilde{y}
+pseudotargetVector:
+  args: 0
+  macro: \mathbf{\pseudotargetScalar}
+rank:
+  args: 1
+  macro: \text{rank}\left(#1\right)
+rayleighDist:
+  args: 2
+  macro: \mathcal{R}\left(#1|#2\right)
+rayleighSamp:
+  args: 1
+  macro: \mathcal{R}\left(#1\right)
+rbfWidth:
+  args: 0
+  macro: \ell
+responsibility:
+  args: 0
+  macro: r
+rotationMatrix:
+  args: 0
+  macro: \mathbf{\MakeUppercase{\rotationScalar}}
+rotationScalar:
+  args: 0
+  macro: r
+rotationVector:
+  args: 0
+  macro: \mathbf{\rotationScalar}
+sampleCovMatrix:
+  args: 0
+  macro: \mathbf{\MakeUppercase{\sampleCovScalar}}
+sampleCovScalar:
+  args: 0
+  macro: s
+sampleCovVector:
+  args: 0
+  macro: \mathbf{\sampleCovScalar}
+scalarProduct:
+  args: 2
+  macro: \left\langle{#1},{#2}\right\rangle
+sensitivity:
+  args: 0
+  macro: s
+sign:
+  args: 1
+  macro: \text{sign}\left(#1\right)
+singularvalue:
+  args: 0
+  macro: \ell
+singularvalueMatrix:
+  args: 0
+  macro: \mathbf{L}
+singularvalueVector:
+  args: 0
+  macro: \mathbf{l}
+sorth:
+  args: 0
+  macro: \mathbf{u}
+spar:
+  args: 0
+  macro: \lambda
+springMatrix:
+  args: 0
+  macro: \boldsymbol{\mathcal{K}}
+springScalar:
+  args: 0
+  macro: \kappa
+springVector:
+  args: 0
+  macro: \boldsymbol{\kappa}
+sufficientStatsMatrix:
+  args: 0
+  macro: \mathbf{\MakeUppercase{\sufficientStatsScalar}}
+sufficientStatsScalar:
+  args: 0
+  macro: g
+sufficientStatsVector:
+  args: 0
+  macro: \mathbf{\sufficientStatsScalar}
+switchMatrix:
+  args: 0
+  macro: \mathbf{\MakeUppercase{\switchScalar}}
+switchScalar:
+  args: 0
+  macro: s
+switchVector:
+  args: 0
+  macro: \mathbf{\switchScalar}
+tfConcentration:
+  args: 0
+  macro: p
+tfDecayRate:
+  args: 0
+  macro: \delta
+tfMrnaConcentration:
+  args: 0
+  macro: f
+tfVector:
+  args: 0
+  macro: '{\bf \tfConcentration}'
+tr:
+  args: 1
+  macro: \text{tr}\left(#1\right)
+twonorm:
+  args: 1
+  macro: '\left\Vert #1 \right\Vert'
+vMatrix:
+  args: 0
+  macro: \mathbf{V}
+vScalar:
+  args: 0
+  macro: v
+vVector:
+  args: 0
+  macro: \mathbf{v}
+variance:
+  args: 1
+  macro: '\text{var}\left( #1 \right)'
+varianceDist:
+  args: 2
+  macro: '\text{var}_{#2}\left( #1 \right)'
+vec:
+  args: 1
+  macro: '#1:'
+vecb:
+  args: 1
+  macro: '\left(#1\right):'
+velocity:
+  args: 0
+  macro: v
+weightMatrix:
+  args: 0
+  macro: \mathbf{\MakeUppercase{\weightScalar}}
+weightScalar:
+  args: 0
+  macro: w
+weightVector:
+  args: 0
+  macro: \mathbf{\weightScalar}
+weightedAdjacencyMatrix:
+  args: 0
+  macro: \mathbf{\MakeUppercase{\weightedAdjacencyScalar}}
+weightedAdjacencyScalar:
+  args: 0
+  macro: a
+weightedAdjacencyVector:
+  args: 0
+  macro: \mathbf{\weightedAdjacencyScalar}
+zerosVector:
+  args: 0
+  macro: \mathbf{0}

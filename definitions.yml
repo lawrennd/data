@@ -1,0 +1,190 @@
+Bmath:
+  args: 1
+  macro: \boldsymbol{#1}
+Refappendix:
+  args: 1
+  macro: Appendix~\ref{#1}
+Refbox:
+  args: 1
+  macro: Box~\ref{#1}
+Refchap:
+  args: 1
+  macro: Chapter~\ref{#1}
+Refchaprange:
+  args: 2
+  macro: Chapter~\ref{#1}--\ref{#2}
+Refeqs:
+  args: 2
+  macro: Equation~(\ref{#1})--(\ref{#2})
+Reffig:
+  args: 1
+  macro: Figure~\ref{#1}
+Reffigrange:
+  args: 2
+  macro: Figure~\ref{#1}--\ref{#2}
+Refint:
+  args: 1
+  macro: Intuition~\ref{#1}
+Refsec:
+  args: 1
+  macro: Section \ref{#1}
+Refsection:
+  args: 1
+  macro: Section~\ref{#1}
+Reftable:
+  args: 1
+  macro: Table~\ref{#1}
+Reftip:
+  args: 1
+  macro: Tip~\ref{#1}
+citeasnoun:
+  args: 1
+  macro: \citeN{#1}
+citemulti:
+  args: 2
+  macro: (#1, \citeyearNP{#2})
+citemultiN:
+  args: 2
+  macro: '#1 (\citeyearNP{#2})'
+cut:
+  args: 1
+  macro: ''
+det:
+  args: 1
+  macro: \left|#1\right|
+detail:
+  args: 1
+  macro: ''
+diff:
+  args: 2
+  macro: \frac{\text{d}#1}{\text{d}#2}
+fixme:
+  args: 1
+  macro: \emph{\textbf{#1}}
+high:
+  args: 1
+  macro: \textcolor{blue}{\emph{#1}}
+imageslideheight:
+  args: 3
+  macro: \begin{frame
+imageslidewidth:
+  args: 3
+  macro: \begin{frame
+includecvfile:
+  args: 1
+  macro: \input{#1}
+includetalkfile:
+  args: 1
+  macro: \input{#1}
+includevimeo:
+  args: 1
+  macro: \includemedia[width=0.6\linewidth,height=0.45\linewidth,activate=pageopen]{}{http://vimeo.com/moogaloop.swf?clip_id=#1}
+inputdiagram:
+  args: 1
+  macro: '{\small\input{#1}\vspace{0.5cm}}'
+instructions:
+  args: 1
+  macro: '\textbf{INSTRUCTIONS: #1}'
+marg:
+  args: 1
+  macro: \marginpar{#1}
+neil:
+  args: 1
+  macro: \textbf{\color{red}#1}
+newcvparagraph:
+  args: 2
+  macro: \paragraph{#1}\includecvfile{#2}
+newcvsection:
+  args: 2
+  macro: \section*{#1}\includecvfile{#2}
+newcvsubsection:
+  args: 2
+  macro: \subsection*{#1}\includecvfile{#2}
+newcvsubsubsection:
+  args: 2
+  macro: \subsubsection*{#1}\includecvfile{#2}
+newsection:
+  args: 2
+  macro: \section{#1}\begin{frame}\frametitle{Outline}\tableofcontents[currentsection,hideallsubsections]\end{frame}\includetalkfile{#2}
+newsubsection:
+  args: 2
+  macro: \subsection{#1}\includetalkfile{#2}
+newsubsubsection:
+  args: 2
+  macro: \subsubsection{#1}\includetalkfile{#2}
+paperslide:
+  args: 3
+  macro: \begin{frame
+pdo:
+  args: 2
+  macro: \frac{\partial{#1}}{\partial{#2}}
+pdol:
+  args: 2
+  macro: \partial{#1}/ \partial{#2}
+pdsd:
+  args: 3
+  macro: '\frac{\partial^{2} #1}{\partial{#2} \partial{#3} }'
+pdt:
+  args: 2
+  macro: '\frac{\partial^{2} #1}{\partial{#2}^{2} }'
+pdu:
+  args: 1
+  macro: \frac{\partial}{\partial{#1}}
+refapp:
+  args: 1
+  macro: appendix~\ref{#1}
+refbox:
+  args: 1
+  macro: box~\ref{#1}
+refchap:
+  args: 1
+  macro: chapter~\ref{#1}
+refchaprange:
+  args: 2
+  macro: chapter~\ref{#1}--\ref{#2}
+refeq:
+  args: 1
+  macro: (\ref{#1})
+refeqs:
+  args: 2
+  macro: equation~(\ref{#1})--(\ref{#2})
+reffig:
+  args: 1
+  macro: figure~\ref{#1}
+reffigrange:
+  args: 2
+  macro: figure~\ref{#1}--\ref{#2}
+refint:
+  args: 1
+  macro: intuition~\ref{#1}
+refsec:
+  args: 1
+  macro: Section \ref{#1}
+refsecs:
+  args: 2
+  macro: Sections \ref{#1}--\ref{#2}
+refsection:
+  args: 1
+  macro: section~\ref{#1}
+reftable:
+  args: 1
+  macro: table~\ref{#1}
+reftip:
+  args: 1
+  macro: tip~\ref{#1}
+reftwosec:
+  args: 2
+  macro: Sections \ref{#1} and \ref{#2}
+todo:
+  args: 1
+  macro: '\textbf{TODO: #1}'
+trace:
+  args: 1
+  macro: \text{tr}\left(#1\right)
+twoimageslidewidth:
+  args: 4
+  macro: \begin{frame
+vgraph:
+  args: 1
+  macro: ' \newpage\begin{center} \end{center}{center}{center}{center}{center}{center}{center}{center}{center}{center}{center}{center}{center}{center}{center}{center}{center}
+    {\large{\bf #1}} {center} \vspace{2mm} '
