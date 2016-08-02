@@ -44,8 +44,6 @@ bScalar:
   latex: b
 bVector:
   latex: \mathbf{b}
-basalRate:
-  latex: b
 basisFunc:
   latex: \phi
 basisFuncVector:
@@ -102,20 +100,18 @@ covDist:
 covSamp:
   args: 1
   latex: \text{cov}\left(#1\right)
-covarianceMatrix:
-  latex: \mathbf{\MakeUppercase{\covarianceScalar}}
 covarianceScalar:
   latex: c
 covarianceVector:
   latex: \mathbf{\covarianceScalar}
-croupierMatrix:
-  latex: \mathbf{\MakeUppercase{\croupierScalar}}
+covarianceMatrix:
+  latex: \mathbf{\MakeUppercase{\covarianceScalar}}
 croupierScalar:
   latex: s
 croupierVector:
   latex: \mathbf{\croupierScalar}
-dampingCoefficient:
-  latex: c
+croupierMatrix:
+  latex: \mathbf{\MakeUppercase{\croupierScalar}}
 dataDim:
   latex: p
 dataIndex:
@@ -523,6 +519,10 @@ Mass:
   latex: M
 Sensitivity:
   latex: S
+basalRate:
+  latex: b
+dampingCoefficient:
+  latex: c
 mass:
   latex: m
 sensitivity:
