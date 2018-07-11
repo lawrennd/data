@@ -1,299 +1,300 @@
-- firstname: Neil D.
-  lastname: Lawrence
-  institute: University of Sheffield
+- given: Neil D.
+  family: Lawrence
+  institute: Amazon and University of Sheffield
   url: http://inverseprobability.com
   twitter: lawrennd
   gscholar: r3SJcvoAAAAJ
-- firstname: Magnus
-  lastname: Rattray
+  orcid: 0000-0001-9258-1030
+- given: Magnus
+  family: Rattray
   url: http://www.ls.manchester.ac.uk/people/profile/?personid=10584
   institute: University of Manchester
   twitter: MagnusRattray
   gscholar: FyB7r1IAAAAJ
-- firstname: Aki
-  lastname: Vehtari
+- given: Aki
+  family: Vehtari
   url: https://users.aalto.fi/~ave/
   institute: Aalto University
   twitter: avehtari
   gscholar: bCE8iLUAAAAJ
-- firstname: Carl Henrik
-  lastname: Ek
+- given: Carl Henrik
+  family: Ek
   url: http://www.carlhenrik.com/
   institute: University of Bristol
   twitter: carlhenrikek
-- firstname: James
-  lastname: Hensman
+- given: James
+  family: Hensman
   url: http://www.lancaster.ac.uk/staff/hensmanj/
   institute: University of Lancaster
   twitter: jameshensman
   gscholar: l8dX3ssAAAAJ
-- firstname: Nicoló
-  lastname: Fusi
+- given: Nicoló
+  family: Fusi
   url: http://nicolofusi.com/
   institute: "Microsoft Research, New England"
   twitter: nfusi
-- firstname: Marta
-  lastname: Milo
+- given: Marta
+  family: Milo
   institute: University of Sheffield
   url: https://www.sheffield.ac.uk/bms/research/milo
   twitter: marta_milo
-- firstname: Diego
-  lastname: di Bernardo
+- given: Diego
+  family: di Bernardo
   url: http://dibernardo.tigem.it/
   institute: Telethon Institute of Genetics and Medicine
-- firstname: Christopher M.
-  lastname: Bishop
+- given: Christopher M.
+  family: Bishop
   url: http://research.microsoft.com/en-us/um/people/cmbishop/
   institute: "Microsoft Research, Cambridge"
-- firstname: Alan D.
-  lastname: Saul
+- given: Alan D.
+  family: Saul
   url: http://www.alansaul.com/
   institute: University of Sheffield
-- firstname: John C.
-  lastname: Platt
+- given: John C.
+  family: Platt
   institute: Google
   twitter: johnplattml
   gscholar: qJzUyM0AAAAJ
-- firstname: Andreas
-  lastname: Damianou
+- given: Andreas
+  family: Damianou
   institute: University of Sheffield
   gscholar: aAnMlmUAAAAJ
   url: http://adamian.github.io/
 
-- firstname: Zhenwen
-  lastname: Dai
+- given: Zhenwen
+  family: Dai
   institute: Inferentia Ltd
   url: http://staffwww.dcs.shef.ac.uk/people/Z.Dai/
-- firstname: Javier
-  lastname: Gonzalez
+- given: Javier
+  family: Gonzalez
   institute: University of Sheffield
   url: http://javiergonzalezh.github.io/
-- firstname: Michael Thomas
-  lastname: Smith
+- given: Michael Thomas
+  family: Smith
   institute: University of Sheffield
   url: http://www.michaeltsmith.org.uk/?page_id=11
-- firstname: Alessandra
-  lastname: Tosi
+- given: Alessandra
+  family: Tosi
   institute: University of Oxford
   url: http://www.robots.ox.ac.uk/~atosi/index.html
-- firstname: Fariba
-  lastname: Yousefi
+- given: Fariba
+  family: Yousefi
   institute:  University of Sheffield,
-- firstname: Mu
-  lastname: Niu
+- given: Mu
+  family: Niu
   institute: University of Glasgow,
   url: http://www.gla.ac.uk/schools/mathematicsstatistics/staff/muniu/
-- firstname: Teo
-  lastname: de Campos
+- given: Teo
+  family: de Campos
   institute: University of Surrey
   url: http://personal.ee.surrey.ac.uk/Personal/T.Decampos/
-- firstname: Nicolas
-  lastname: Durrande
+- given: Nicolas
+  family: Durrande
   institute: "Ecole des Mines, St-Etienne"
   url: https://sites.google.com/site/nicolasdurrandehomepage/
-- firstname: Ciira
-  lastname: Maina
+- given: Ciira
+  family: Maina
   institute: Dedan Kimathi University of Technology
   url: https://sites.google.com/site/cwamainadekut/
-- firstname: Jie
-  lastname: Hao
+- given: Jie
+  family: Hao
   institute: Imperial College
   url: http://www.imperial.ac.uk/people/j.hao
-- firstname: Jaakko
-  lastname: Peltonen
+- given: Jaakko
+  family: Peltonen
   institute: Aalto University
   url: http://users.ics.aalto.fi/jtpelto/
-- firstname: Michalis K.
-  lastname: Titsias
+- given: Michalis K.
+  family: Titsias
   institute: University of Athens
   url: http://www.aueb.gr/users/mtitsias/
-- firstname: Pei
-  lastname: Gao
+- given: Pei
+  family: Gao
   institute: Peking University
   url: https://uk.linkedin.com/pub/pei-gao/36/842/3b5
-- firstname: Guido
-  lastname: Sanguinetti
+- given: Guido
+  family: Sanguinetti
   institute: University of Edinburgh
   url: http://homepages.inf.ed.ac.uk/gsanguin/
-- firstname: Huma
-  lastname: Lodhi
+- given: Huma
+  family: Lodhi
   institute: University of Warwick
   url: http://www2.warwick.ac.uk/fac/sci/eng/staff/hml/
-- firstname: Max
-  lastname: Zwiessele
+- given: Max
+  family: Zwiessele
   url: http://staffwww.dcs.sheffield.ac.uk/people/M.Zwiessele/
   institute: University of Sheffield
-- firstname: Arif
-  lastname: Rahman
+- given: Arif
+  family: Rahman
   url: http://people.juniv.edu/profile/arif
   institute: University of Sheffield
-- firstname: Ricardo
-  lastname: Andrade-Pacheco
+- given: Ricardo
+  family: Andrade-Pacheco
   institute: UCSF Global Health Science
   url: http://ric70x7.github.io/
-- firstname: Alfredo A.
-  lastname: Kalaitzis
+- given: Alfredo A.
+  family: Kalaitzis
   institute: Microsoft
   url: https://uk.linkedin.com/in/alfredokalaitzis
-- firstname: Mauricio A.
-  lastname: Álvarez
+- given: Mauricio A.
+  family: Álvarez
   institute: Universidad Tecnológica de Pereira, Colombia
   url: https://sites.google.com/site/maalvarezl/
-- firstname: Jonathan
-  lastname: Laidler
+- given: Jonathan
+  family: Laidler
   institute: Plusnet, Sheffield
-- firstname: Christopher A.
-  lastname: Penfold
+- given: Christopher A.
+  family: Penfold
   institute: University of Cambridge
   url: http://www.researchgate.net/profile/Christopher_Penfold2
-- firstname: Nathaniel J.
-  lastname: King
+- given: Nathaniel J.
+  family: King
   institute: IBM
-- firstname: Yasser
-  lastname: Hifny
+- given: Yasser
+  family: Hifny
   url: http://www.helwan.edu.eg/university/staff/~yhifny/
-- firstname: Tonatiuh
-  lastname: Peña-Centeno
-- firstname: Michael I.
-  lastname: Jordan
+- given: Tonatiuh
+  family: Peña-Centeno
+- given: Michael I.
+  family: Jordan
   url: http://www.cs.berkeley.edu/~jordan/
   institute: UC Berkeley
-- firstname: Bernhard
-  lastname: Schölkopf
+- given: Bernhard
+  family: Schölkopf
   url: https://ei.is.tuebingen.mpg.de/person/bs
   institute: Max Planck Institute, Tübingen
-- firstname: Oliver
-  lastname: Stegle
+- given: Oliver
+  family: Stegle
   twitter: OliverStegle
   gscholar: ClSXZ4IAAAAJ
   url: http://www.ebi.ac.uk/research/stegle
   institute: European Bioinformatics Institute
-- firstname: Antti
-  lastname: Honkela
+- given: Antti
+  family: Honkela
   url: https://www.hiit.fi/u/ahonkela/
   institute: University of Helsinki
   twitter: ahonkela
   gscholar: XsyLs6AAAAAJ
-- firstname: Philipp
-  lastname: Hennig
+- given: Philipp
+  family: Hennig
   url: https://ei.is.tuebingen.mpg.de/person/phennig
   institute: Max Planck Institute, Tübingen
   gscholar: UeG5w08AAAAJ
-- firstname: Michael
-  lastname: Osborne
+- given: Michael
+  family: Osborne
   institute: University of Oxford
   url: http://www.robots.ox.ac.uk/~mosb/
   gscholar: iTNcAakAAAAJ
   twitter: maosbot
-- firstname: John
-  lastname: Quinn
+- given: John
+  family: Quinn
   url: http://air.ug/~jquinn/
   gscholar: d4_ktUIAAAAJ
   institute: United Nations Global Pulse and Makerere University
-- firstname: Martin
-  lastname: Mubangizi
+- given: Martin
+  family: Mubangizi
   url: http://air.ug/~mmubangizi/
   gscholar: zqlXt6wAAAAJ
   institute: United Nations Global Pulse
-- firstname: Ralf
-  lastname: Herbrich
+- given: Ralf
+  family: Herbrich
   url: http://www.herbrich.me/
   twitter: rherbrich
   gscholar: RuvHkikAAAAJ
   institute: Amazon
-- firstname: Joaquin
-  lastname: Quiñonero Candela
+- given: Joaquin
+  family: Quiñonero Candela
   url: http://quinonero.net/
   gscholar: 33ynLk8AAAAJ
   institute: Facebook
-- firstname: Steve
-  lastname: Renals
+- given: Steve
+  family: Renals
   url: http://homepages.inf.ed.ac.uk/srenals/
   institute: University of Edinburgh
   gscholar: hERDiOEAAAAJ
   twitter: srenals
-- firstname: Matthias
-  lastname: Seeger
+- given: Matthias
+  family: Seeger
   institute: Amazon
   gscholar: V-lc8A8AAAAJ
-- firstname: Mahesan
-  lastname: Niranjan
+- given: Mahesan
+  family: Niranjan
   url: http://www.ecs.soton.ac.uk/people/mn
   institute: University of Southampton
   gscholar: 3kuILUIAAAAJ
-- firstname: Martin
-  lastname: Cooke
+- given: Martin
+  family: Cooke
   url: http://laslab.org/martin
   institute: University of the Basque Country
-- firstname: Tommi S.
-  lastname: Jaakkola
+- given: Tommi S.
+  family: Jaakkola
   institute: MIT
   url: https://people.csail.mit.edu/tommi/
-- firstname: Mark
-  lastname: Girolami
+- given: Mark
+  family: Girolami
   institute: University of Warwick
   url: http://www2.warwick.ac.uk/fac/sci/statistics/staff/academic-research/girolami/
   gscholar: BSoawXwAAAAJ
-- firstname: Raquel
-  lastname: Urtasun
+- given: Raquel
+  family: Urtasun
   institute: University of Toronto
   url: http://www.cs.toronto.edu/~urtasun/
   gscholar: jyxO2akAAAAJ
-- firstname: Diego
-  lastname: di Bernardo
+- given: Diego
+  family: di Bernardo
   institute: TeleThon Institute of Genetics and Medicine
   url: http://dibernardo.tigem.it/
   gscholar: QYTOJEoAAAAJ
-- firstname: César Lincoln C.
-  lastname: Mattos
+- given: César Lincoln C.
+  family: Mattos
   twitter: cesarlincoln
-- firstname: John
-  lastname: Lafferty
+- given: John
+  family: Lafferty
   url: https://galton.uchicago.edu/~lafferty/
   institute: University of Chicago
-- firstname: Lorenzo
-  lastname: Rosasco
+- given: Lorenzo
+  family: Rosasco
   url: http://web.mit.edu/lrosasco/www/
   institute: University of Genoa
   gscholar: quJBh1EAAAAJ
   twitter: lrntzrsc
-- firstname: Miguel
-  lastname: Lázaro Gredilla
+- given: Miguel
+  family: Lázaro Gredilla
   url: http://www.tsc.uc3m.es/~miguel/publications.php
   gscholar: SFjDQk8AAAAJ
   institute: Vicarious
-- firstname: Christoph
-  lastname: Lippert
+- given: Christoph
+  family: Lippert
   url: http://christoph-lippert.de/
   gscholar: RVl8TE0AAAAJ
   institute: Human Longevity, Inc
   github: clippert
-- firstname: Karsten
-  lastname: Borgwardt
+- given: Karsten
+  family: Borgwardt
   url: https://www.bsse.ethz.ch/mlcb/karsten.html
   gscholar: v3JsjMYAAAAJ
   institute: ETH Zurich
-- firstname: David
-  lastname: Luengo
+- given: David
+  family: Luengo
   gscholar: aC5-LiEAAAAJ
   url: http://www.ics.upm.es/personal/profesores-titulares-de-unviersidad-interinos/david-luengo-garcia
   institute: Universidad Politécnica de Madrid
-- firstname: Xuejun
-  lastname: Liu
+- given: Xuejun
+  family: Liu
   url: https://www.researchgate.net/profile/Xuejun_Liu2
   institute: Nanjing University of Aeronautics and Astronautics
-- firstname: Philip H. S.
-  lastname: Torr
+- given: Philip H. S.
+  family: Torr
   url: http://www.robots.ox.ac.uk/~phst/
   gscholar: kPxa2w0AAAAJ
   institute: University of Oxford
-- firstname: Boaz
-  lastname: Lerner
+- given: Boaz
+  family: Lerner
   url: http://www.ee.bgu.ac.il/~boaz/
   institute: Ben Gurion University
   gscholar: Ipn8QWkAAAAJ
-- firstname: Ernest
-  lastname: Mwebaze
+- given: Ernest
+  family: Mwebaze
   url: http://air.ug/~emwebaze/
   institute: Makerere University
   gscholar: YWUV9zYAAAAJ
