@@ -1,16 +1,16 @@
-current,name,place,end,thesistitle,url
-N,Fariba Yousefi,,,,https://www.researchgate.net/profile/Fariba_Yousefi
-N,Alan Saul,"Researcher at Prowler.io",,,http://www.alansaul.com/
-N,Max Zwiessele,"Researcher at Babylon Health",,,http://staffwww.dcs.sheffield.ac.uk/people/M.Zwiessele/
-N,Arif Rahman,,18/12/2015,,http://people.juniv.edu/profile/arif
-N,Ricardo Andrade Pacheco,"Post-doc at the Malaria Elimination Initiative, Global Health Group, UCSF Global Health Science",24/9/2015,,http://ric70x7.github.io/
-N,Andreas Damianou,"Post-doc at the University of Sheffield",24/4/2015,,http://adamian.github.io/
-N,Nicoló Fusi,"Researcher at Microsoft Research, New England",19/11/2014,,http://nicolofusi.com/
-N,Alfredo Kalaitzis,"Senior Research Fellow at the University of Oxford",3/5/2013,,https://uk.linkedin.com/in/alfredokalaitzis
-N,Mauricio Álvarez,"Senior Lecturer at the University of Sheffield",4/5/2011,,https://sites.google.com/site/maalvarezl/
-N,Jonny Laidler,"Plusnet, Sheffield",,,
-N,Chris Penfold,"Researcher at University of Cambridge",27/11/2009,,http://www.researchgate.net/profile/Christopher_Penfold2
-N,Carl Henrik Ek,"Senior Lecturer at the University of Bristol, UK",25/8/2009,,http://www.carlhenrik.com/
-N,Nathaniel King,"IBM",21/11/2007,,
-N,Yasser Abdel-Haleem,"IBM Research",,,http://www.helwan.edu.eg/university/staff/~yhifny/
-N,Tonatiuh Peña Centeno,"Senior Bioinformatician at DZNE",,,https://www.linkedin.com/in/tonatiuh-pena-centeno-143a8b18
+current,given,prefix,family,suffix,place,end,title,url,student
+N,Fariba,,Yousefi,,,,,https://www.researchgate.net/profile/Fariba_Yousefi,Y
+N,Alan,,Saul,,"Researcher at Prowler.io",,,http://www.alansaul.com/,Y
+N,Max,,Zwiessele,,"Researcher at Babylon Health",,,http://staffwww.dcs.sheffield.ac.uk/people/M.Zwiessele/,Y
+N,Arif,,Rahman,,"Assistant Professor, Jahangirnagar University",18/12/2015,,http://people.juniv.edu/profile/arif,Y
+N,Ricardo,,Andrade Pacheco,,"Post-doc at the Malaria Elimination Initiative, Global Health Group, UCSF Global Health Science",24/9/2015,,http://ric70x7.github.io/,Y
+N,Andreas,,Damianou,,"Senior Researcher, Amazon",24/4/2015,,http://adamian.github.io/,Y
+N,Nicoló,,Fusi,,"Senior Principal Research Manager at Microsoft Research, New England",19/11/2014,,http://nicolofusi.com/,Y
+N,Alfredo,,Kalaitzis,,"Senior Research Fellow at the University of Oxford",3/5/2013,,https://uk.linkedin.com/in/alfredokalaitzis,Y
+N,Mauricio,,Álvarez,,"Senior Lecturer at the University of Sheffield",4/5/2011,,https://sites.google.com/site/maalvarezl/,Y
+N,Jonny,,Laidler,,"Plusnet, Sheffield",,,,Y
+N,Chris,,Penfold,,"Researcher at University of Cambridge",27/11/2009,,http://www.researchgate.net/profile/Christopher_Penfold2,Y
+N,Carl Henrik,,Ek,,"Senior Lecturer at the University of Cambridge",25/8/2009,,http://www.carlhenrik.com/,Y
+N,Nathaniel,,King,,"IBM",21/11/2007,,,Y
+N,Yasser,,Abdel-Haleem,,"IBM Research",,,http://www.helwan.edu.eg/university/staff/~yhifny/,Y
+N,Tonatiuh,,Peña Centeno,,"Senior Bioinformatician at DZNE",,,https://www.linkedin.com/in/tonatiuh-pena-centeno-143a8b18,Y
