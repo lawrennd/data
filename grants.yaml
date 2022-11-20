@@ -1,0 +1,303 @@
+- currency: "\xA3"
+  description: Senior AI Fellowship
+  end: 2025
+  funders: UKRI
+  number: ''
+  role: PI
+  start: 2020
+  title: 'Innovation to Deployment: Machine Learning Systems Design'
+  url: http://mlatcl.github.io/autoai/
+- amount: 750000
+  currency: $
+  description: ''
+  end: 2022
+  funders: Patrick J. McGovern Foundation
+  number: ''
+  role: PI
+  start: 2020
+  title: Establishing a Centre of Excellence for Data Trust Projects
+  url: http://datatrusts.uk
+- amount: 10000000
+  currency: $
+  description: ''
+  end: 2025
+  funders: Schmidt Futures
+  number: ''
+  role: PI
+  start: 2020
+  title: Advancing AI in Scientific Research
+  url: http://mlatcl.github.io/accelerateweb/
+- amount: 75000
+  currency: "\xA3"
+  end: 2023
+  funders: EU
+  role: PI
+  start: 2021
+  title: 'ELISE: European Learning and Intelligence Systems Excellence'
+- amount: 504792
+  collaborators: Zoubin Ghahramani and John Quinn
+  currency: "\xA3"
+  description: (with University of Cambridge, CitizenMe and Pulse Lab Kampala, two
+    post-doctoral research assistants in our group)
+  end: 2020
+  funders: EPSRC
+  number: EP/N014162/1
+  role: PI
+  start: 2016
+  title: Deep Probabilistic Models for Making Sense of Unstructured Data
+  url: http://sheffieldml.github.io/projects/deep/
+- amount: 50000
+  currency: \$
+  description: Further support for EP/N014162/1
+  end: 2020
+  funders: Facebook
+  role: PI
+  start: 2015
+  title: Facebook Faculty Award
+  url: http://sheffieldml.github.io/projects/deep/
+- amount: 150000
+  currency: \$
+  description: Award in the provision of compute time on AWS Servers, further support
+    for EP/N014162/1
+  end: 2020
+  funders: Amazon
+  role: PI
+  start: 2015
+  title: AWS Grants for Research and Education
+  url: http://sheffieldml.github.io/projects/deep/
+- amount: 457457
+  currency: "\xA3"
+  end: 2018
+  funders: EU-Horizon 2020
+  role: PI
+  start: 2015
+  title: 'OpenDreamKit: Open Digital Research Environment Toolkit for the Advancement
+    of Mathematics'
+  url: http://sheffieldml.github.io/projects/opendreamkit/
+- amount: 156364
+  collaborators: Winston Hide
+  currency: "\xA3"
+  description: Marie Curie Fellowship award to Luisa Cutillo
+  end: 2017
+  funders: EU-Horizon 2020
+  number: ''
+  role: PI
+  start: 2015
+  title: 'CONTESSA: COuNt data TimE SerieS Analysis - significance tests and sequencing data application'
+  url: http://sheffieldml.github.io/projects/contessa/
+- amount: 85491
+  currency: "\xA3"
+  description: (with CitizenMe and Cambridge Psychometrics Centre, One post-doctoral
+    research assistant in our group). In this grant we are developing personal information
+    management systems for assessing emotional state and providing user feedback
+  end: 2016
+  funders: Innovate UK
+  role: PI
+  start: 2015
+  title: Personal Information Management Systems
+  url: http://sheffieldml.github.io/projects/pims/
+- amount: 443883
+  currency: "\xA3"
+  description: (shared with Department of Psychology, One post-doctoral research assistant
+    in our group). In this grant we are developing approaches for deep Gaussian process
+    models and efficient approaches for fitting them to large data (including streaming
+    data)
+  end: 2017
+  funders: EU
+  number: ''
+  role: Co-investigator
+  start: 2014
+  title: 'WYSIWYD: What You Say is What You Did'
+  url: http://sheffieldml.github.io/projects/wysiwyd/
+- amount: 654948
+  collaborators: David James
+  currency: "\xA3"
+  description: (shared with Department of Chemical and Biological Engineering, One
+    post-doctoral research assistant in our group). In this grant we are using Bayesian
+    optimization techniques to predict improvements in protein production efficiency
+    given sequence information from Chinese Hamster Ovary Cells
+  end: 2016
+  funders: BBSRC
+  number: ''
+  role: Co-investigator
+  start: 2013
+  title: Linking recombinant gene sequence to protein product manufacturability using
+    CHO cell genomic resources
+  url: http://sheffieldml.github.io/projects/recombinant/
+- amount: 376962
+  currency: "\xA3"
+  description: (Research Training Fellowship in Biostatistics to James Hensman). Fellowship
+    is about fast Bayesian models for processing RNA-seq data and relating it to clinical
+    data. Project moved to Lancaster with James when he took up his lecturershi there.
+  end: 2017
+  funders: MRC
+  number: ''
+  role: Supervisor
+  start: 2013
+  title: Bayesian models of expression in the transcriptome for clinical RNA-seq
+  url: ''
+- amount: 309325
+  currency: "\xA3"
+  description: One post-doctoral research assistant. In this grant we are developing
+    Gaussian process approaches for handling high throughput sequencing data with
+    a focus on combining this data with other data modalities so that sequence information
+    can be related to phenotype
+  end: 2015
+  funders: EU
+  number: ''
+  role: PI
+  start: 2012
+  title: "RADIANT: Rapid Development and Distribution of Statistical Tools for High-Throughput Sequencing Data"
+  url: http://sheffieldml.github.io/projects/radiant/
+- amount: ''
+  currency: ''
+  description: Two PhD students. In this grant we are concerned with the challenges
+    of massively missing data in phenotype and relating genotype to phenotype
+  end: 2015
+  funders: EU
+  number: ''
+  role: PI
+  start: 2012
+  title: 'MLPM2012: Machine Learning for Personalized Medicine Marie Curie ITN Network'
+  url: http://sheffieldml.github.io/projects/mlpm/
+- amount: 240563
+  currency: "\xA3"
+  description: One post-doctoral research assistant. In this grant we are focused
+    on introducing mechanistic aspects to machine learning models in application to
+    dynamical biological systems
+  end: 2015
+  funders: EU
+  number: ''
+  role: PI
+  start: 2011
+  title: 'BioPreDyn: From Data to Models: New Bioinformatics Methods and Tools for
+    Data-Driven Predictive Dynamic Modelling in Biotechnological Applications'
+  url: http://sheffieldml.github.io/projects/biopredyn/
+- amount: 795000
+  collaborators: Magnus Rattray and Nicoletta Bobola
+  currency: "\xA3"
+  description: ''
+  end: 2013
+  funders: BBSRC
+  number: ''
+  role: Co-investigator
+  start: 2010
+  title: An iterative pipeline of computational modelling and experimental design
+    for uncovering gene regulatory networks in vertebrates
+  url: http://sheffieldml.github.io/projects/iterative/
+- amount: 404000
+  collaborators: Magnus Rattray
+  currency: "\xA3"
+  description: ''
+  end: 2013
+  funders: BBSRC
+  number: ''
+  role: Co-investigator
+  start: 2010
+  title: SYNERGY---systems approach to gene regulation biology through nuclear receptors
+  url: http://sheffieldml.github.io/projects/synergy/
+- amount: ''
+  currency: ''
+  description: ''
+  end: 2013
+  funders: EU FP7
+  number: ''
+  role: PI
+  start: 2008
+  title: 'Site manager for the European network of excellence PASCAL II: Pattern Analysis,
+    Statistical Modelling and Computational Learning'
+  url: ''
+- amount: 365601
+  collaborators: Magnus Rattray and Nick Monk
+  currency: "\xA3"
+  description: The project is concerned with inference of transcription factor activity
+    from gene expression measurements
+  end: 2011
+  funders: EPSRC
+  number: ''
+  role: PI
+  start: 2007
+  title: ' Gaussian Process Models for Systems Identification with Applications in
+    Systems Biology'
+  url: http://sheffieldml.github.io/projects/tigre/
+- amount: 150068
+  collaborators: Magnus Rattray
+  currency: "\xA3"
+  description: The project was concerned with propagating uncertainty through the
+    analysis of microarray generated expression levels
+  end: 2007
+  funders: BBSRC
+  number: ''
+  role: PI
+  start: 2004
+  title: Improved Processing for Microarray Data with Probabilistic Models
+  url: http://sheffieldml.github.io/projects/pipeline/
+- amount: ''
+  currency: ''
+  description: Total cumulative site funding was around 210,000 euros and included
+    a 12 month post-doc position
+  end: 2008
+  funders: EU FP6
+  number: ''
+  role: PI
+  start: 2003
+  title: 'Site manager for the European network of excellence PASCAL: Pattern Analysis,
+    Statistical Modelling and Computational Learning'
+  url: ''
+- amount: 30000
+  collaborators: Mauricio \'Alvarez
+  currency: \$
+  description: From the Google Research Award scheme
+  end: 2010
+  funders: Google
+  number: ''
+  role: PI
+  start: 2007
+  title: Mechanistically Inspired Convolution Processes for Learning
+  url: http://sheffieldml.github.io/projects/mechanistic/
+- amount: 285000
+  collaborators: Mark Hawley
+  currency: "\xA3"
+  description: |
+    Funded through the *Health Technology Devices* programme. This
+    project is a collaboration with Barnsley Hospital and Tunstall Group Ltd. The
+    project involves automated monitoring of vulnerable individual's lifestyles so
+    that alerts can be raised concerning their state of health. This project was handed
+    over to Professor Niranjan on moving from Sheffield to Manchester
+  end: 2009
+  funders: Dept of Health
+  number: ''
+  role: Co-investigator
+  start: 2006
+  title: Advanced Lifestyle Monitoring Systems
+  url: http://sheffieldml.github.io/projects/alms/
+- amount: 60000
+  currency: "\xA3"
+  description: ''
+  end: 2005
+  funders: EPSRC
+  number: ''
+  role: PI
+  start: 2002
+  title: Learning Classifiers from Sloppily Labelled Data
+  url: http://sheffieldml.github.io/projects/sloppy/
+- amount: 10000
+  currency: "\xA3"
+  description: ''
+  end: 2003
+  funders: Microsoft~Research
+  number: ''
+  role: PI
+  start: 2002
+  title: ' Simple Implementation of a Mathematical Programming Language'
+  url: ''
+- amount: 20000
+  currency: "\xA3"
+  description: ''
+  end: 2004
+  funders: EPSRC/LMS MathFIT
+  number: ''
+  role: Co-investigator
+  start: 2003
+  title: Advanced Research Methods in Machine Learning and Statistical Signal Processing
+  url: ''
