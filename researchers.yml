@@ -1,7 +1,6 @@
 - given: Neil D.
   family: Lawrence
-  institute: Amazon and University of Sheffield
-  url: http://inverseprobability.com
+  institute: University of Cambridge
   twitter: lawrennd
   gscholar: r3SJcvoAAAAJ
   orcid: 0000-0001-9258-1030
@@ -60,7 +59,6 @@
   institute: University of Sheffield
   gscholar: aAnMlmUAAAAJ
   url: http://adamian.github.io/
-
 - given: Zhenwen
   family: Dai
   institute: Inferentia Ltd
@@ -155,6 +153,7 @@
   url: http://www.helwan.edu.eg/university/staff/~yhifny/
 - given: Tonatiuh
   family: Peña-Centeno
+  url: https://github.com/tonatiuhpenacenteno
 - given: Michael I.
   family: Jordan
   url: http://www.cs.berkeley.edu/~jordan/

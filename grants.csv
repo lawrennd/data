@@ -1,4 +1,7 @@
 role,number,funders,title,currency,amount,start,end,description,collaborators,url
+PI,,Patrick J. McGovern Foundation,The Data Trusts Initiative,$,,2020-12-01,2022-12-01,,,,
+PI,,Schmidt Futures,Accelerate Science,$,,2019-10-01,2024-10-01,,,,
+PI,,UKRI,AutoAI: From Innovation to Deployment,£,,2019-12-01,2024-12-01,"(with Data Science Africa, Sylvie Delacroix),,,
 PI,EP/N014162/1,EPSRC,Deep Probabilistic Models for Making Sense of Unstructured Data,£,504792,2016,2020,"(with University of Cambridge, CitizenMe and Pulse Lab Kampala, two post-doctoral research assistants in our group)",Zoubin Ghahramani and John Quinn,http://sheffieldml.github.io/projects/deep/
 PI,,Facebook,"Facebook Faculty Award",\$,50000,2015,2020,"Further support for EP/N014162/1",,http://sheffieldml.github.io/projects/deep/
 PI,,Amazon,"AWS Grants for Research and Education",\$,150000,2015,2020,"Award in the provision of compute time on AWS Servers, further support for EP/N014162/1",,http://sheffieldml.github.io/projects/deep/

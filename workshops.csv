@@ -1,17 +1,19 @@
 role,title,place,country,month,year,coorganisers,sponsor,url
+,Challenges in Deploying and Monitoring ML Systems,,,17th July,2020,"Alessandra Tosi, Nathan Korda",,https://sites.google.com/view/deploymonitormlsystems
+,ML for Global Health,,,18th July,2020,"Danielle Belgrave, Stephanie Hyland, Charles C. Onu, Ernest Mwebaze, Nicholas Furnham",,https://mlforglobalhealth.org/
 ,Trajectories,Cambridge,UK,14th March,2019,"Chris Monk, Vaiva Kalnikaitė, Vicky Schneider",,
-,Data Readiness Workshop,Oxford,UK,25th-26th February, 2019, "Nigel Shadbolt, Vicky Schneider",,
+,Data Readiness Workshop,Oxford,UK,25th-26th February, 2019,"Nigel Shadbolt, Vicky Schneider",,
 ,Gaussian Process Summer School,Sheffield,UK,3rd-6th September,2018,"Jeremy Oakley, Richard Wilkinson, Mauricio Alvarez, Javier Gonzalez and the Sheffield ML Group",,http://gpss.cc/gpss18/
-,Data Science in Africa Workshop,Nyeri,Kenya,31st May-8th June, 2018, "Ernest Mwebaze, Martin Mubangizi, Ciira Maina and John Quinn",,http://www.datascienceafrica.org/dsa2018/
-,Advances in Data Science, Manchester, England, 21st-22nd May, 2018, "Magnus Rattray, Rachel Gibson, Mark Elliot, Suzy Moat",,http://www.datascience.manchester.ac.uk/events/advances-in-data-science/advances-in-data-science-2018/
+,Data Science in Africa Workshop,Nyeri,Kenya,31st May-8th June, 2018,"Ernest Mwebaze, Martin Mubangizi, Ciira Maina and John Quinn",,http://www.datascienceafrica.org/dsa2018/
+,Advances in Data Science, Manchester, England, 21st-22nd May, 2018,"Magnus Rattray, Rachel Gibson, Mark Elliot, Suzy Moat",,http://www.datascience.manchester.ac.uk/events/advances-in-data-science/advances-in-data-science-2018/
 ,Data Learning and Inference, Lanzarote, Canary Islands,3rd-5th April,2018,"Bernhard Schoelkopf, Isabel Valera,  Fernando Perez-Cruz, Sebastian Nowozin",,http://dalimeeting.org/dali2018/
 ,Gaussian Process Summer School,Sheffield,UK,11th-14th September,2017,"Richard Wilkinson, Mauricio Alvarez, Javier Gonzalez and the Sheffield ML Group",,http://gpss.cc/gpss17/
-,Data Science in Africa Workshop,Arusha,Tanzania,17th-21st July, 2017, "Ernest Mwebaze, Martin Mubangizi, Ciira Maina and John Quinn",,http://www.datascienceafrica.org/dsa2017/
+,Data Science in Africa Workshop,Arusha,Tanzania,17th-21st July, 2017,"Ernest Mwebaze, Martin Mubangizi, Ciira Maina and John Quinn",,http://www.datascienceafrica.org/dsa2017/
 ,Advances in Data Science, Manchester, UK,15th-16th May,2017,"Magnus Rattray",,http://www.datascience.manchester.ac.uk/news/latest-stories-updates/advances-in-data-science-conference-2017/
 ,Data Learning and Inference, Tenerife, Canary Islands,18th-20th April,2017,"Bernhard Schoelkopf, Pablo Olmos, Isabel Valera, Zoubin Ghahramani, Thomas Hofmann",,http://dalimeeting.org/dali2017/
 ,Gaussian Process Summer School,Sheffield,UK,12th-14th September,2016,"Richard Wilkinson, Jeremy Oakley, Mauricio Alvarez, Javier Gonzalez and the Sheffield ML Group",,http://gpss.cc/gpuqss16/
-,Data Science in Africa Workshop,Kampala,Uganda,30th June-1st July, 2016, "Ernest Mwebaze, Martin Mubangizi, Ciira Maina and John Quinn",,http://www.datascienceafrica.org/dsa2016/
-,Data Science in Africa Summer School,Kampala,Uganda,27th-29th June, 2016, "Ernest Mwebaze, Martin Mubangizi, Ciira Maina John Quinn",,http://www.datascienceafrica.org/dsa2016/
+,Data Science in Africa Workshop,Kampala,Uganda,30th June-1st July, 2016,"Ernest Mwebaze, Martin Mubangizi, Ciira Maina and John Quinn",,http://www.datascienceafrica.org/dsa2016/
+,Data Science in Africa Summer School,Kampala,Uganda,27th-29th June, 2016,"Ernest Mwebaze, Martin Mubangizi, Ciira Maina John Quinn",,http://www.datascienceafrica.org/dsa2016/
 ,Deep Probabilistic Models Workshop, Royal Society, UK, 8th June,2016,"Zoubin Ghahramani and Andreas Damianou",,http://gpss.cc/deepp16/
 ,Entropy Day, University of Sheffield, UK,23rd May,2016,"Dagmar Divjak",,http://opendsi.cc/ed2016/
 ,Machine Learning and Society Workshop at DALI, Sestri Levante, Italy,1st April,2016,"Adrian Weller and Michael Osborne",,http://dalimeeting.org/dali2016/machine-learning-society.html
