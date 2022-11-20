@@ -2,108 +2,108 @@
   family: Dai
   given: Zhenwen
   pdra: True
-  place: Researcher at Spotify
-  url: http://zhenwendai.github.io/
+  position: Researcher at Spotify
+  website: http://zhenwendai.github.io/
 - current: False
   family: Damianou
   given: Andreas
   pdra: True
-  place: Researcher at Amazon
-  url: https://adamian.github.io/
+  position: Researcher at Amazon
+  website: https://adamian.github.io/
 - current: False
   family: Gonzalez
   given: Javier
   pdra: True
-  place: Senior Researcher at Microsoft Research
-  url: http://javiergonzalezh.github.io/
+  position: Senior Researcher at Microsoft Research
+  website: http://javiergonzalezh.github.io/
 - current: False
   family: Cutillo
   given: Luisa
   pdra: True
-  place: Lecturer in Statistics at University of Leeds
-  url: https://physicalsciences.leeds.ac.uk/staff/1526/dr-luisa-cutillo
+  position: Lecturer in Statistics at University of Leeds
+  website: https://physicalsciences.leeds.ac.uk/staff/1526/dr-luisa-cutillo
 - current: False
   family: Smith
   given: Michael T.
   pdra: True
-  place: Post-doc at the University of Sheffield
-  url: http://www.michaeltsmith.org.uk/
+  position: Post-doc at the University of Sheffield
+  website: http://www.michaeltsmith.org.uk/
 - current: False
   family: Tosi
   given: Alessandra
   pdra: True
-  place: Resarcher at Mind Foundry
-  url: http://www.robots.ox.ac.uk/~atosi/index.html
+  position: Resarcher at Mind Foundry
+  website: http://www.robots.ox.ac.uk/~atosi/index.html
 - current: False
   family: Yousefi
   given: Fariba
   pdra: True
-  place: PhD Student at the University of Sheffield
-  url: ''
+  position: PhD Student at the University of Sheffield
+  website: ''
 - current: False
   family: Niu
   given: Mu
   pdra: True
-  place: Post-doc at University of Glasgow
-  url: http://www.gla.ac.uk/schools/mathematicsstatistics/staff/muniu/
+  position: Post-doc at University of Glasgow
+  website: http://www.gla.ac.uk/schools/mathematicsstatistics/staff/muniu/
 - current: False
   family: Campos
   given: Teo
   pdra: True
-  place: Research Fellow at University of Surrey
+  position: Research Fellow at University of Surrey
   prefix: de
-  url: http://personal.ee.surrey.ac.uk/Personal/T.Decampos/
+  website: http://personal.ee.surrey.ac.uk/Personal/T.Decampos/
 - current: False
   family: Durrande
   given: Nicola
   pdra: True
-  place: Research Lead at Shift Lab
-  url: https://sites.google.com/site/nicolasdurrandehomepage/
+  position: Research Lead at Shift Lab
+  website: https://sites.google.com/site/nicolasdurrandehomepage/
 - current: False
   family: Hensman
   given: James
   pdra: True
-  place: Principal Scientist at Amazon
-  url: http://jameshensman.github.io/
+  position: Principal Scientist at Amazon
+  website: http://jameshensman.github.io/
 - current: False
   family: Maina
   given: Ciira
   pdra: True
-  place: Senior Lecturer  at Dedan Kimathi University of Technology
-  url: https://sites.google.com/site/cwamainadekut/
+  position: Senior Lecturer  at Dedan Kimathi University of Technology
+  website: https://sites.google.com/site/cwamainadekut/
 - current: False
   family: Hao
   given: Jie
   pdra: True
-  place: Researcher at Imperial College
-  url: http://www.imperial.ac.uk/people/j.hao
+  position: Researcher at Imperial College
+  website: http://www.imperial.ac.uk/people/j.hao
 - current: False
   family: Peltonen
   given: Jaakko
   pdra: True
-  place: Finnish Academy Fellow at Aalto University
-  url: http://users.ics.aalto.fi/jtpelto/
+  position: Finnish Academy Fellow at Aalto University
+  website: http://users.ics.aalto.fi/jtpelto/
 - current: False
   family: Titsias
   given: Michalis
   pdra: True
-  place: Research Scientist at DeepMind
-  url: http://www.aueb.gr/users/mtitsias/
+  position: Research Scientist at DeepMind
+  website: http://www.aueb.gr/users/mtitsias/
 - current: False
   family: Gao
   given: Pei
   pdra: True
-  place: Department of Epidemiology and Biostatistics, Peking University
-  url: https://uk.linkedin.com/pub/pei-gao/36/842/3b5
+  position: Department of Epidemiology and Biostatistics, Peking University
+  website: https://uk.linkedin.com/pub/pei-gao/36/842/3b5
 - current: False
   family: Sanguinetti
   given: Guido
   pdra: True
-  place: Professor of Computational Biology at Edinburgh Computer Science
-  url: http://homepages.inf.ed.ac.uk/gsanguin/
+  position: Professor of Computational Biology at Edinburgh Computer Science
+  website: http://homepages.inf.ed.ac.uk/gsanguin/
 - current: False
   family: Lodhi
   given: Huma
   pdra: True
-  place: Lead Machine Learning Engineer at Sky
-  url: https://www.linkedin.com/in/huma-lodhi-ab33182a
+  position: Lead Machine Learning Engineer at Sky
+  website: https://www.linkedin.com/in/huma-lodhi-ab33182a

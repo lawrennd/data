@@ -49,7 +49,7 @@
   description: "Level 4 module for Computational Intelligence MSc. Course runs using 10 hours of lectures and 20 hours of lab classes."
 - semester: 1
   title: "Bringing it Together: CS & Math Dual Tutorials"
-  descripton: |
+  description: |
     I took over the tutorial system for the CS
     & Maths Dual and created a tutorial program that aims at bridging
     the gap between the CS and Maths courses. We discuss topics at the
@@ -63,8 +63,7 @@
   end: 2015-06-01
 - semester: 1
   title: Machines and Intelligence
-  description: |
-    Level 1 module for our undergraduate degree programme to introduce Artificial Intelligence."
+  description: Level 1 module for our undergraduate degree programme to introduce Artificial Intelligence.
   with:
   - given: Robert
     family: Gaizauskas
