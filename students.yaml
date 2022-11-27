@@ -1,9 +1,10 @@
 - current: False
-  end: ''
+  end: 2021-04-30
   family: Yousefi
   given: Fariba
   position: Researcher at AstaZeneca
   student: True
+  thesistitle: Gaussian Processes for Data Scarcity Challenges
   website: https://www.researchgate.net/profile/Fariba_Yousefi
 - current: False
   end: ''
@@ -12,18 +13,22 @@
   position: Researcher at SecondMind
   student: True
   website: http://www.alansaul.com/
+  thesistitle: Gaussian Process Based Approaches for Survival Analysis
 - current: False
-  end: ''
+  end: 2017-10-12
+  start: 2013-04-01
   family: Zwiessele
   given: Max
-  position: Researcher at Babylon Health
+  position: Senior Research Engineer at Babylon Health
+  thesistitle: "Bringing Models to the Domain: Deploying Gaussian Processes in the Biological Sciences"
   student: True
-  website: http://staffwww.dcs.sheffield.ac.uk/people/M.Zwiessele/
+  website: https://www.linkedin.com/in/max-zwiessele-39769a154/
 - current: False
   end: 2015-12-18
   family: Rahman
   given: Arif
   position: Associate Lecturer in Computer Science, University of Reading
+  thesistitle: "Gaussian Process in Computational Biology: Covariance Functions for Transcriptomics"
   student: True
   website: http://people.juniv.edu/profile/arif
 - current: False
@@ -32,6 +37,7 @@
   given: Ricardo
   position: Post-doc at the Malaria Elimination Initiative, Global Health Group, UCSF
     Global Health Science
+  thesistitle: Gaussian Processes for Spatiotemporal Modelling
   student: True
   suffix: ''
   title: ''
@@ -40,10 +46,9 @@
   end: 2015-04-24
   family: Damianou
   given: Andreas
-  position: Senior Researcher, Amazon
+  position: Senior Researcher, Spotify
   student: True
-  suffix: ''
-  title: ''
+  thesistitle: Deep Gaussian Processes and Variational Propagation of Uncertainty
   website: http://adamian.github.io/
 - current: False
   end: 2014-11-19
@@ -52,6 +57,7 @@
   position: Senior Principal Research Manager at Microsoft Research, New England
   student: True
   website: http://nicolofusi.com/
+  thesistitle: Probabilistic Latent Variable Models in Statistical Genomics
 - current: False
   end: 2013-05-03
   family: Kalaitzis
@@ -59,6 +65,7 @@
   position: Senior Research Fellow at the University of Oxford
   student: True
   website: https://uk.linkedin.com/in/alfredokalaitzis
+  thesistitle: Learning with structured covariance matrices in linear Gaussian models
 - current: False
   end: 2011-05-04
   family: "\xC1lvarez"

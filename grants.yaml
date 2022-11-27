@@ -1,28 +1,32 @@
 - currency: £
+  title: Human Cell Atlas
+  collaborators: Muzlifa Haniffa, Sarah Teichmann and Bertie Göttgens
+  funders: Wellcome
+  number: 221052/B/20/Z
+  start: 2022-02-07
+  end: 2024-02-06
+- currency: £
   description: Senior AI Fellowship
-  end: 2025
+  end: 2025-11-01
   funders: UKRI
   number: ''
   role: PI
-  start: 2020
+  start: 2020-11-01
   title: 'Innovation to Deployment: Machine Learning Systems Design'
   url: http://mlatcl.github.io/autoai/
 - amount: 750000
   currency: $
-  description: ''
-  end: 2022
+  end: 2022-12-31
   funders: Patrick J. McGovern Foundation
-  number: ''
   role: PI
-  start: 2020
+  start: 2021-01-01
   title: Establishing a Centre of Excellence for Data Trust Projects
+  collaborators: Jessica Montgomery and Sylvie Delacroix
   url: http://datatrusts.uk
 - amount: 10000000
   currency: $
-  description: ''
   end: 2025
   funders: Schmidt Futures
-  number: ''
   role: PI
   start: 2020
   title: Advancing AI in Scientific Research

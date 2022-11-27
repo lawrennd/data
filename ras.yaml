@@ -26,7 +26,7 @@
   family: Smith
   given: Michael T.
   pdra: True
-  position: Post-doc at the University of Sheffield
+  position: Lecturer at the University of Sheffield
   website: http://www.michaeltsmith.org.uk/
 - current: False
   family: Tosi
@@ -38,7 +38,7 @@
   family: Yousefi
   given: Fariba
   pdra: True
-  position: PhD Student at the University of Sheffield
+  position: Researcher at AstraZeneca
   website: ''
 - current: False
   family: Niu
@@ -50,7 +50,7 @@
   family: Campos
   given: Teo
   pdra: True
-  position: Research Fellow at University of Surrey
+  position: Professor Adjunto at Universidade de Basilia
   prefix: de
   website: http://personal.ee.surrey.ac.uk/Personal/T.Decampos/
 - current: False
@@ -63,13 +63,13 @@
   family: Hensman
   given: James
   pdra: True
-  position: Principal Scientist at Amazon
+  position: Principal Researcher at Microsoft Research
   website: http://jameshensman.github.io/
 - current: False
   family: Maina
   given: Ciira
   pdra: True
-  position: Senior Lecturer  at Dedan Kimathi University of Technology
+  position: Senior Lecturer at Dedan Kimathi University of Technology
   website: https://sites.google.com/site/cwamainadekut/
 - current: False
   family: Hao
@@ -81,8 +81,8 @@
   family: Peltonen
   given: Jaakko
   pdra: True
-  position: Finnish Academy Fellow at Aalto University
-  website: http://users.ics.aalto.fi/jtpelto/
+  position: Professor of Statistics at Tampere University
+  website: https://homepages.tuni.fi/jaakko.peltonen/
 - current: False
   family: Titsias
   given: Michalis
@@ -93,8 +93,8 @@
   family: Gao
   given: Pei
   pdra: True
-  position: Department of Epidemiology and Biostatistics, Peking University
-  website: https://uk.linkedin.com/pub/pei-gao/36/842/3b5
+  position: Research Fellow, Department of Epidemiology and Biostatistics, Peking University
+  website: https://uk.linkedin.com/in/pei-gao-3b584236
 - current: False
   family: Sanguinetti
   given: Guido
