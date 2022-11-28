@@ -1,5 +1,6 @@
 - currency: £
   title: Human Cell Atlas
+  amount: 161121
   collaborators: Muzlifa Haniffa, Sarah Teichmann and Bertie Göttgens
   funders: Wellcome
   number: 221052/B/20/Z
@@ -7,8 +8,10 @@
   end: 2024-02-06
 - currency: £
   description: Senior AI Fellowship
-  end: 2025-11-01
+  end: 2025-03-31
+  start: 2020-01-01
   funders: UKRI
+  amount: 1758587.33
   number: ''
   role: PI
   start: 2020-11-01
@@ -25,19 +28,21 @@
   url: http://datatrusts.uk
 - amount: 10000000
   currency: $
-  end: 2025
+  end: 2026-04-30
   funders: Schmidt Futures
   role: PI
-  start: 2020
+  start: 2020-10-01
   title: Advancing AI in Scientific Research
   url: http://mlatcl.github.io/accelerateweb/
-- amount: 75000
-  currency: £
-  end: 2023
-  funders: EU
+- currency: £
+  end: 2023-08-31
+  funders: EU H2020
   role: PI
-  start: 2021
+  start: 2021-08-30
   title: 'ELISE: European Learning and Intelligence Systems Excellence'
+  number: 951847
+  collaborators: a network of European Universities
+  amount: 149780
 - amount: 504792
   collaborators: Zoubin Ghahramani and John Quinn
   currency: £
