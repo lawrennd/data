@@ -1,6 +1,7 @@
 - currency: £
   title: Human Cell Atlas
   amount: 161121
+  role: Co-investigator
   collaborators: Muzlifa Haniffa, Sarah Teichmann and Bertie Göttgens
   funders: Wellcome
   number: 221052/B/20/Z
@@ -115,6 +116,7 @@
   funders: EU
   number: ''
   role: Co-investigator
+  collaborators: Tony Prescott
   start: 2014
   title: 'WYSIWYD: What You Say is What You Did'
   url: http://sheffieldml.github.io/projects/wysiwyd/
@@ -307,6 +309,7 @@
   funders: EPSRC/LMS MathFIT
   number: ''
   role: Co-investigator
+  collaborators: Joab Winkler and Mahesan Niranjan
   start: 2003
   title: Advanced Research Methods in Machine Learning and Statistical Signal Processing
   url: ''

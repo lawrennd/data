@@ -1,15 +1,16 @@
-- coorganisers: Alessandra Tosi, Nathan Korda
+- coorganisers: Alessandra Tosi and Nathan Korda
   month: 17th July
   title: Challenges in Deploying and Monitoring ML Systems
   url: https://sites.google.com/view/deploymonitormlsystems
   year: 2020
-- coorganisers: Danielle Belgrave, Stephanie Hyland, Charles C. Onu, Ernest Mwebaze,
-    Nicholas Furnham
+  venue: Virtual ICML Workshops
+- coorganisers: Danielle Belgrave, Stephanie Hyland, Charles C. Onu, Ernest Mwebaze and Nicholas Furnham
   month: 18th July
   title: ML for Global Health
   url: https://mlforglobalhealth.org/
   year: 2020
-- coorganisers: "Chris Monk, Vaiva Kalnikait\u0117, Vicky Schneider"
+  venue: Virtual ICML Workshops
+- coorganisers: Chris Monk, Vaiva Kalnikaitė, and Vicky Schneider
   country: UK
   month: 14th March
   venue: Cambridge
@@ -19,6 +20,7 @@
   country: UK
   month: 25th-26th February
   venue: Oxford
+  country: UK
   title: Data Readiness Workshop
   year: 2019
 - coorganisers: Jeremy Oakley, Richard Wilkinson, Mauricio Alvarez, Javier Gonzalez
@@ -43,15 +45,14 @@
   title: Advances in Data Science
   url: http://www.datascience.manchester.ac.uk/events/advances-in-data-science/advances-in-data-science-2018/
   year:  2018
-- coorganisers: Bernhard Schoelkopf, Isabel Valera,  Fernando Perez-Cruz, Sebastian
-    Nowozin
+- coorganisers: Bernhard Schölkopf, Isabel Valera, Fernando Perez-Cruz, Sebastian Nowozin
   country: Canary Islands
   month: 3rd-5th April
   venue: Lanzarote
   title: Data Learning and Inference
   url: http://dalimeeting.org/dali2018/
   year: 2018
-- coorganisers: Richard Wilkinson, Mauricio Alvarez, Javier Gonzalez and the Sheffield
+- coorganisers: Richard Wilkinson, Mauricio Álvarez, Javier Gonzalez and the Sheffield
     ML Group
   country: UK
   month: 11th-14th September
@@ -73,7 +74,7 @@
   title: Advances in Data Science
   url: http://www.datascience.manchester.ac.uk/news/latest-stories-updates/advances-in-data-science-conference-2017/
   year: 2017
-- coorganisers: Bernhard Schoelkopf, Pablo Olmos, Isabel Valera, Zoubin Ghahramani,
+- coorganisers: Bernhard Schölkopf, Pablo Olmos, Isabel Valera, Zoubin Ghahramani,
     Thomas Hofmann
   country: Canary Islands
   month: 18th-20th April
@@ -81,7 +82,7 @@
   title: Data Learning and Inference
   url: http://dalimeeting.org/dali2017/
   year: 2017
-- coorganisers: Richard Wilkinson, Jeremy Oakley, Mauricio Alvarez, Javier Gonzalez
+- coorganisers: Richard Wilkinson, Jeremy Oakley, Mauricio Álvarez, Javier Gonzalez
     and the Sheffield ML Group
   country: UK
   month: 12th-14th September
@@ -124,7 +125,7 @@
   title: Machine Learning and Society Workshop at DALI
   url: http://dalimeeting.org/dali2016/machine-learning-society.html
   year: 2016
-- coorganisers: Bernhard Schoelkopf, Thomas Hoffman, Zoubin Ghahramani and Lorenzo
+- coorganisers: Bernhard Schölkopf, Thomas Hoffman, Zoubin Ghahramani and Lorenzo
     Rosasco
   country: Italy
   month: 30th March-1st April
@@ -155,26 +156,26 @@
   year: 2015
 - coorganisers: Ciira Maina and John Quinn
   country: Kenya
-  month: 18th--19th June
+  month: 18th-19th June
   venue: Nyeri
   title: Workshop on Data Science in Africa
   url: http://gpss.cc/dsa15/
   year: 2015
 - coorganisers: Ciira Maina and John Quinn
   country: Kenya
-  month: 15th--17th June
+  month: 15th-17th June
   venue: Nyeri
-  title: ODS: Data Science School
+  title: "ODS: Data Science School"
   url: http://gpss.cc/dss15/
   year: 2015
 - coorganisers: Aki Vehtari and Ole Winther
   country: Denmark
-  month: 21st--22nd May
+  month: 21st-22nd May
   venue: Copenhagen
   title: Workshop on Approximate Inference in Gaussian Processes
   url: http://gpss.cc/gpa15/
   year: 2015
-- coorganisers: "Bernhard Sch\xF6lkopf, Zoubin Ghahramani and Thomas Hoffman"
+- coorganisers: Bernhard Schölkopf, Zoubin Ghahramani and Thomas Hoffman
   country: Canary Islands
   month: April
   venue: La Palma
@@ -183,7 +184,7 @@
   year: 2015
 - coorganisers: Trevor Cohn
   country: Australia
-  month: 25th--27th February
+  month: 25th-27th February
   venue: Melbourne
   title: Gaussian Process Summer School
   url: http://gpss.cc/gprs15b/
@@ -233,7 +234,7 @@
   title: Gaussian Process Summer School
   url: http://gpss.cc/gpss14/
   year: 2014
-- coorganisers: Nicol\'o Fusi and James Hensman
+- coorganisers: Nicoló Fusi and James Hensman
   country: UK
   month: April
   venue: Sheffield
@@ -247,7 +248,7 @@
   title: MASAMB
   url: http://ml.dcs.shef.ac.uk/masamb/
   year: 2014
-- coorganisers: Mauricio \'Alvarez
+- coorganisers: Mauricio Álvarez
   country: Colombia
   month: February
   venue: Pereirra
@@ -264,12 +265,12 @@
   year: 2014
 - coorganisers: Andreas Damianou, Alan Saul and the Sheffield ML Group
   country: UK
-  month: 13th--15th January
+  month: 13th-15th January
   venue: Sheffield
   title: Gaussian Process Winter School
   url: http://gpss.cc/gpws14/
   year: 2014
-- coorganisers: Joaquin Qui\~{n}onero Candela, James Hensman and Tianshi Gao
+- coorganisers: Joaquin Quiñonero Candela, James Hensman and Tianshi Gao
   country: USA
   month: December
   venue: NIPS Workshop, South Lake Tahoe
@@ -283,7 +284,7 @@
   title: Gaussian Process Road Show
   url: http://gpss.cc/gprs13/
   year: 2013
-- coorganisers: Mauricio \'Alvarez
+- coorganisers: Mauricio Álvarez
   country: UK
   month: June
   venue: Sheffield
@@ -297,18 +298,16 @@
   title: Gaussian Process Summer School
   url: http://gpss.cc/gpss13/
   year: 2013
-- coorganisers: "Mark Girolami as Programme Co-chair, General Chair Bernhard Sch\xF6\
-    lkopf, Local Chair Fernando Perez Cruz"
+- coorganisers: Mark Girolami as Programme Co-chair, General Chair Bernhard Schölkopf, Local Chair Fernando Perez Cruz
   country: Canary Islands
   month: April
   venue: La Palma
   role: Programme Chair
   sourcefile: workshops.csv
-  sponsor: ''
   title: AISTATS 2012
   url: http://www.aistats.org/aistats2012/
   year: 2012
-- coorganisers: "Bernhard Sch\xF6lkopf, Fernando Perez Cruz and Philipp Hennig"
+- coorganisers: Bernhard Schölkopf, Fernando Perez Cruz and Philipp Hennig
   country: Canary Islands
   month: April
   venue: La Palma
@@ -320,7 +319,6 @@
   month: July
   venue: Hilton Stadtpark, Vienna
   title: MLSB 2011
-  url: ''
   year: 2011
 - coorganisers: with Mike Titterington and Yee Whye Teh as Programme Chairs
   country: Sardinia
@@ -332,7 +330,7 @@
   title: AISTATS 2010
   url: http://www.aistats.org/aistats2010/
   year: 2010
-- coorganisers: Mauricio \'Alvarez and Lorenzo Rosasco
+- coorganisers: Mauricio Álvarez and Lorenzo Rosasco
   country: Canada
   month: December
   venue: Whistler
@@ -340,22 +338,18 @@
     Points of View'
   url: http://videolectures.net/nipsworkshops09_kernels/
   year: 2009
-- coorganisers: Mauricio \'Alvarez
+- coorganisers: Mauricio Álvarez
   country: UK
   month: July
   venue: Manchester
   title: Statistics and Machine Learning Interface Meeting
-  url: ''
   year: 2009
 - coorganisers: Marc Dymetman
-  country: ''
   month: March to September
-  venue: ''
   sponsor: FP7 PASCAL Network
   title: Thematic Programme in Leveraging Complex Prior Knowledge in Learning
-  url: ''
   year: 2008
-- coorganisers: Joaquin Qui\~{n}onero Candela
+- coorganisers: Joaquin Quiñonero Candela
   country: UK
   month: September
   venue: Lake District
@@ -364,7 +358,7 @@
   year: 2008
 - coorganisers: Cedric Archambeau, John Shawe-Taylor, Ian Roulstone and Andrew Stuart
   country: UK
-  month: 27th--29th May
+  month: 27th-29th May
   venue: Cumberland Lodge, Windsor
   sponsor: PASCAL2
   title: Workshop on Approximate Inference in Stochastic Processes and Dynamical Systems
@@ -379,12 +373,9 @@
   url: http://videolectures.net/epsrcws08_sheffield/
   year: 2008
 - coorganisers: Mark Girolami, Magnus Rattray and Guido Sanguinetti
-  country: ''
   month: March to September
-  venue: ''
   sponsor: FP6 PASCAL NoE
   title: Thematic Programme in Learning for Computational and Systems Biology
-  url: ''
   year: 2007
 - coorganisers: Matthias Seeger, David Barber and Onno Zoeter
   country: Canada
@@ -402,7 +393,7 @@
   title: Parameter Estimation in Systems Biology
   url: http://videolectures.net/pesb07_manchester/
   year: 2007
-- coorganisers: Joaquin Qui\~{n}onero Candela, Masashi Sugiyama and Anton Schwaighofer
+- coorganisers: Joaquin Quiñonero Candela, Masashi Sugiyama and Anton Schwaighofer
   country: Canada
   month: 9th December
   venue: Whistler
@@ -410,7 +401,7 @@
   title: Learning when Test and Training Inputs have Different Distributions
   url: http://videolectures.net/different06_whistler/
   year: 2006
-- coorganisers: Joaquin Qui\~{n}onero Candela and Anton Schwaighofer
+- coorganisers: Joaquin Quiñonero Candela and Anton Schwaighofer
   country: UK
   month: 12th-13th June
   venue: Bletchley Park
@@ -418,8 +409,7 @@
   title: Gaussian Processes in Practice
   url: http://ml.dcs.shef.ac.uk/gpip/
   year: 2006
-- coorganisers: ''
-  country: UK
+- country: UK
   month: 9th-10th June
   venue: Sheffield
   sponsor: the University of Sheffield and the FP6 PASCAL NoE
@@ -440,5 +430,4 @@
   venue: Halifax Hall, Sheffield
   sponsor: The Biochemical Society and the University of Sheffield
   title: 'Unravelling Nature''s Networks: From Microarray and Proteomic Analysis to Systems Biology'
-  url: ''
   year: 2003
