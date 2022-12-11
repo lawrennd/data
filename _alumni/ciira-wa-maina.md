@@ -8,7 +8,7 @@ given: Ciira
 crsid: xxcwm01
 position: Senior Lecturer
 institution: Dedan Kimathi University of Technology
-image: 
+image: http://ciirawamaina.com/images/Ciira.JPG
 github: ciiram
 scholar: 
 linkedin: 
