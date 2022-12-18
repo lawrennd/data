@@ -7,7 +7,8 @@ position: Gordon McKay Professor
 institution: Harvard University
 image: https://finale.seas.harvard.edu/files/finale/files/finale.jpg?m=1626892486
 github: 
-scholar: 
+scholar: hwQtFB0AAAAJ
+semantic: 1388372395
 linkedin: 
 twitter: 
 biography: |

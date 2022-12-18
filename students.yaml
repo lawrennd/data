@@ -25,14 +25,17 @@
   website: https://www.linkedin.com/in/max-zwiessele-39769a154/
 - current: False
   end: 2015-12-18
+  start: 2011-09-19
   family: Rahman
-  given: Arif
+  given: M. Arifur
+  preferred: Arif
   position: Associate Lecturer in Computer Science, University of Reading
   thesistitle: "Gaussian Process in Computational Biology: Covariance Functions for Transcriptomics"
   student: True
   website: http://people.juniv.edu/profile/arif
 - current: False
   end: 2015-09-24
+  start: 2011-09-19
   family: Andrade Pacheco
   given: Ricardo
   position: Post-doc at the Malaria Elimination Initiative, Global Health Group, UCSF
