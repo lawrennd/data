@@ -35,6 +35,8 @@
   position: Resarcher at Mind Foundry
   website: http://www.robots.ox.ac.uk/~atosi/index.html
 - current: False
+  start: 2015-02-16
+  end: 2015-12-31
   family: Yousefi
   given: Fariba
   pdra: True
@@ -66,6 +68,7 @@
   position: Principal Researcher at Microsoft Research
   website: http://jameshensman.github.io/
 - current: False
+  prefix: wa
   family: Maina
   given: Ciira
   pdra: True
