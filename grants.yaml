@@ -9,11 +9,11 @@
   end: 2024-02-06
 - currency: £
   description: Senior AI Fellowship
-  end: 2025-03-31
-  start: 2020-01-01
+  end: 2025-04-31
+  start: 2020-08-15
   funders: UKRI
   amount: 1758587.33
-  number: ''
+  number: EP/V030302/1
   role: PI
   start: 2020-11-01
   title: 'Innovation to Deployment: Machine Learning Systems Design'
