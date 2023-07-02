@@ -11,9 +11,15 @@ scholar: DZ-fHPgAAAAJ
 linkedin: 
 twitter: bschoelkopf 
 biography: |
-  My scientific interests are in the field of machine learning and inference from empirical data. This is usually based on statistical regularities, however, I take a particular interest in causal structures that underlie statistical dependences.
-
-  I have worked on a number of different applications of machine learning - in our field, you get "to play in everyone's backyard." For instance, I have been trying to play in the backyard of astronomers and photographers.
+  My scientific interests are in the field of machine learning and
+  inference from empirical data. This is usually based on statistical
+  regularities, however, I take a particular interest in causal
+  structures that underlie statistical dependencies.
+  
+  I have worked on a number of different applications of machine
+  learning - in our field, you get "to play in everyone's backyard."
+  For instance, I have been trying to play in the backyard of
+  astronomers and photographers.
 website: https://is.mpg.de/~bs
 orcid: 
 ---
